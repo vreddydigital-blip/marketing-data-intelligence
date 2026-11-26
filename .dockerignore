@@ -1,0 +1,14 @@
+.git/
+.Renviron
+.RData
+.Rhistory
+data/
+logs/
+docs/
+tests/
+sample_data/
+renv/
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db

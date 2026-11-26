@@ -36,6 +36,19 @@ Rscript run_app.R
 
 then open http://127.0.0.1:3838.
 
+## Deploying to shinyapps.io
+
+```bat
+REM set credentials first (never commit them)
+set SHINYAPPS_NAME=<your-account>
+set SHINYAPPS_TOKEN=<token>
+set SHINYAPPS_SECRET=<secret>
+Rscript deploy.R
+```
+
+See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for free-tier limits and a
+Docker/ShinyProxy path.
+
 ## Tests
 
 ```bat

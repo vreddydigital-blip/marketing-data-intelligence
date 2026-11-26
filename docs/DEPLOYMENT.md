@@ -1,14 +1,26 @@
 # Deployment Guide
 
 The app is a standard R Shiny application; any Shiny host works. Two
-recommended paths, no paid APIs required.
+recommended paths, no paid APIs required. This repository ships ready-made
+deployment artifacts:
+
+- `deploy.R` — publishes to shinyapps.io via rsconnect (credentials from env vars)
+- `Dockerfile` + `.dockerignore` — production container image for self-hosting
+
+Free-tier facts (checked at development time — allowances can change, verify
+current terms before relying on them): the shinyapps.io free plan provides
+5 deployed apps, **25 active hours per month** (uptime only while the app is
+actively serving; idle apps sleep), instances with 1 GB RAM, and a 1 GB bundle
+limit. Authentication features and larger instances are paid-tier only, and
+the free plan does not require a credit card. Do not assume the free tier is
+permanent.
 
 ## Option A: shinyapps.io (managed, has a free tier)
 
 1. Create a free account at https://www.shinyapps.io (free tier exists but is
    subject to provider change — check current allowances; do not assume it
    remains free forever).
-2. In R:
+2. In R (or simply `Rscript deploy.R` from the project root):
    ```r
    install.packages("rsconnect")
    rsconnect::setAccountInfo(name = "<your-name>",
@@ -25,17 +37,18 @@ recommended paths, no paid APIs required.
 
 ## Option B: ShinyProxy in Docker (self-hosted, free software)
 
-1. Containerise:
-   ```dockerfile
-   FROM rocker/shiny:4.4.1
-   RUN Rscript -e 'install.packages(c("shiny","bslib","shinyWidgets","shinyjs","tidyverse","readxl","janitor","data.table","plotly","DT","broom","rstatix","car","tidymodels","ranger","glmnet","forecast","openxlsx","writexl","DBI","RSQLite","rmarkdown"))'
-   COPY . /srv/shiny-server/marketing-data-intelligence
+1. Build and run the shipped image:
+   ```bash
+   docker build -t marketing-data-intelligence .
+   docker run -p 3838:3838 -v mdi-data:/data marketing-data-intelligence
    ```
-   (Add `forecast` extras like fable/tsibble if used; rocker images include pandoc.)
+   The image is based on `rocker/shiny-verse:4.4.1` (Shiny, tidyverse, and
+   pandoc included), installs all remaining R packages, and stores SQLite,
+   logs, and reports under the mounted `/data` volume.
 2. Run ShinyProxy (open source) on a VM; it provides auth (LDAP/OAuth) and
    container-per-user isolation — recommended for anything user-facing.
-3. Database: mount a volume for `MDI_DATA_DIR` so SQLite persists across
-   restarts, or point `MDI_DB_ENGINE`/future PostgreSQL support at a managed DB.
+3. Database: the `/data` volume persists SQLite across restarts, or set
+   `MDI_DB_ENGINE` and migrate to PostgreSQL for production use.
 
 ## Environment configuration
 
@@ -46,6 +59,7 @@ recommended paths, no paid APIs required.
 | `MDI_LOG_LEVEL` | INFO | DEBUG/INFO/WARN/ERROR |
 | `MDI_DB_ENGINE` | sqlite | database backend |
 | `MDI_PORT` / `MDI_HOST` | 3838 / 127.0.0.1 | listener (run_app.R) |
+| `SHINYAPPS_NAME` / `SHINYAPPS_TOKEN` / `SHINYAPPS_SECRET` | — | shinyapps.io credentials (deploy.R only) |
 
 ## Restart behaviour
 
