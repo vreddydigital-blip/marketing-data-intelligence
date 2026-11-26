@@ -1,0 +1,1501 @@
+order_date,product,region,customer_id,cost,quantity,revenue
+2024-02-25,USB-C Hub,North,C00500,48.74,2,95
+2024-03-07,Desk Lamp,West,C00661,189.3,3,273.6
+2024-01-24,Portable Battery 20k,South,C00454,45.76,2,84.47
+2024-01-22,Portable Battery 20k,South,C00557,33.3,2,63.97
+2024-04-07,Bluetooth Speaker,West,C00779,136.04,2,220.91
+2024-01-09,Noise-Canceling Headphones,West,C00234,50.7,3,62.24
+2024-01-10,Portable Battery 20k,North,C00587,87.31,1,112.49
+2024-03-25,Desk Lamp,West,C00742,14.95,1,24.41
+2024-02-28,Portable Battery 20k,East,C00308,137.28,2,281.87
+2024-01-12,Portable Battery 20k,East,C00781,46.41,1,60.89
+2024-03-02,Noise-Canceling Headphones,North,C00251,19.62,1,37.51
+2024-02-09,Smart Bulb Kit,North,C00758,162.3,3,319.25
+2024-02-15,Desk Lamp,North,C00442,67.2,2,78.16
+2024-01-23,Portable Battery 20k,East,C00561,38.03,1,68.98
+2024-03-29,USB-C Hub,North,C00357,72.89,1,151.54
+2024-03-21,Bluetooth Speaker,West,C00084,26.96,1,46.09
+2024-01-25,Smart Bulb Kit,South,C00777,49.23,1,80.19
+2024-02-16,Keyboard Mini,North,C00109,158.1,3,296.98
+2024-01-27,Desk Lamp,East,C00705,91.76,2,159.1
+2024-01-12,Bluetooth Speaker,East,C00136,341.72,4,589.78
+2024-04-23,Noise-Canceling Headphones,West,C00494,55.09,1,93.96
+2024-01-07,Smart Bulb Kit,North,C00214,82.96,1,143.84
+2024-02-06,USB-C Hub,South,C00435,108.81,3,127.45
+2024-01-28,Smart Bulb Kit,West,C00710,72.22,2,117.72
+2024-01-11,Keyboard Mini,West,C00127,82.08,2,137.07
+2024-02-22,Noise-Canceling Headphones,West,C00473,52.33,1,88.64
+2024-04-13,Noise-Canceling Headphones,South,C00100,149.66,2,241.22
+2024-01-25,Portable Battery 20k,South,C00591,87.98,1,118.59
+2024-01-05,Bluetooth Speaker,West,C00292,69,1,100.59
+2024-02-11,Noise-Canceling Headphones,North,C00229,80,2,117.13
+2024-03-18,Portable Battery 20k,West,C00473,13.74,1,22.86
+2024-02-06,Portable Battery 20k,West,C00170,134.84,2,233.45
+2024-02-28,USB-C Hub,South,C00739,110.72,2,175.77
+2024-01-15,Smart Bulb Kit,East,C00539,54.09,1,62.29
+2024-01-26,Bluetooth Speaker,West,C00790,251.36,4,411.25
+2024-04-01,USB-C Hub,East,C00693,79.92,2,104.78
+2024-04-26,Portable Battery 20k,North,C00448,82.47,1,114.07
+2024-04-07,Noise-Canceling Headphones,North,C00360,104.24,2,200.44
+2024-01-08,Noise-Canceling Headphones,West,C00630,64.11,1,124.7
+2024-02-07,Portable Battery 20k,South,C00101,33.45,1,42.51
+2024-03-10,Keyboard Mini,East,C00357,99.28,2,122.54
+2024-04-10,Fitness Tracker,South,C00368,142.14,3,229.4
+2024-03-31,Smart Bulb Kit,South,C00187,37.74,1,75.42
+2024-02-21,USB-C Hub,North,C00166,12.37,1,16.19
+2024-01-28,Desk Lamp,South,C00504,19.76,1,30.36
+2024-04-12,Bluetooth Speaker,South,C00691,85.22,2,165.37
+2024-04-18,Smart Bulb Kit,South,C00598,48.22,1,80.89
+2024-04-11,Fitness Tracker,East,C00094,102.03,3,136.03
+2024-03-09,Noise-Canceling Headphones,East,C00131,66.37,1,91.61
+2024-04-23,Keyboard Mini,West,C00322,152.58,3,246.16
+2024-04-14,Desk Lamp,West,C00336,75.64,1,106.29
+2024-02-29,Smart Bulb Kit,North,C00779,70.01,1,105.32
+2024-01-08,Bluetooth Speaker,West,C00001,138.42,2,187.96
+2024-01-30,USB-C Hub,East,C00773,328.84,4,550.22
+2024-03-11,Desk Lamp,West,C00514,37.08,1,43.69
+2024-02-14,USB-C Hub,West,C00792,125.38,2,245.79
+2024-04-12,Desk Lamp,South,C00483,72.76,2,100.25
+2024-03-06,Smart Bulb Kit,West,C00734,118.52,2,165.22
+2024-04-13,Keyboard Mini,South,C00290,199.15,5,247.18
+2024-02-26,Noise-Canceling Headphones,West,C00056,124.32,2,172.93
+2024-03-16,Keyboard Mini,South,C00631,24.31,1,31.06
+2024-02-29,Noise-Canceling Headphones,South,C00053,317.2,5,651.76
+2024-01-25,USB-C Hub,East,C00540,37.33,1,62.23
+2024-01-10,Keyboard Mini,North,C00560,75.5,1,123.55
+2024-03-25,Bluetooth Speaker,West,C00621,97.23,3,153.4
+2024-03-11,Smart Bulb Kit,South,C00581,46.24,2,89.14
+2024-01-11,USB-C Hub,North,C00099,69.42,3,102.54
+2024-04-28,Portable Battery 20k,West,C00191,38.61,1,69.18
+2024-02-12,Bluetooth Speaker,South,C00032,78.84,1,143.58
+2024-01-25,USB-C Hub,North,C00380,78.93,1,154.34
+2024-02-03,Portable Battery 20k,East,C00641,127.24,2,235.04
+2024-02-15,Noise-Canceling Headphones,East,C00268,99.62,2,154.47
+2024-02-28,Bluetooth Speaker,North,C00547,80.97,1,163.51
+2024-02-14,Noise-Canceling Headphones,South,C00100,47.01,1,94.39
+2024-03-04,Bluetooth Speaker,South,C00252,34.88,1,71.56
+2024-04-29,Bluetooth Speaker,East,C00271,42.42,2,51.55
+2024-02-18,Keyboard Mini,West,C00696,52.56,3,67.83
+2024-04-02,Bluetooth Speaker,South,C00313,43.56,1,67.5
+2024-02-07,Noise-Canceling Headphones,North,C00045,125.76,2,230.38
+2024-02-26,Smart Bulb Kit,West,C00638,18.1,1,36.4
+2024-01-12,Bluetooth Speaker,East,C00042,110.06,2,219.87
+2024-01-14,Bluetooth Speaker,West,C00424,364.4,5,518.8
+2024-02-20,Keyboard Mini,South,C00020,31.18,1,38.74
+2024-03-15,Portable Battery 20k,South,C00072,63.78,1,116.43
+2024-01-20,Portable Battery 20k,East,C00779,152.16,2,271.66
+2024-03-15,Bluetooth Speaker,West,C00396,91.02,2,115.55
+2024-02-03,Bluetooth Speaker,East,C00292,183.45,5,314.54
+2024-02-02,Portable Battery 20k,East,C00209,44.92,1,62.38
+2024-03-15,Desk Lamp,North,C00101,141.24,2,289.42
+2024-03-26,Portable Battery 20k,West,C00482,174.75,3,226.91
+2024-02-05,Portable Battery 20k,East,C00570,85.8,3,166.4
+2024-01-29,Fitness Tracker,South,C00024,43.14,2,88.51
+2024-04-27,Bluetooth Speaker,East,C00509,332.68,4,486.74
+2024-03-22,Portable Battery 20k,West,C00698,180.57,3,339.59
+2024-04-08,Portable Battery 20k,West,C00161,62.31,1,114.4
+2024-03-19,Keyboard Mini,South,C00776,246.25,5,397.02
+2024-02-27,Bluetooth Speaker,East,C00658,87.79,1,131.29
+2024-02-29,Fitness Tracker,South,C00004,81.72,1,114.18
+2024-04-09,Noise-Canceling Headphones,East,C00632,88.61,1,112.75
+2024-01-22,USB-C Hub,South,C00035,51.32,1,68.76
+2024-04-21,USB-C Hub,West,C00777,260.94,3,379.08
+2024-03-06,USB-C Hub,North,C00052,57.68,2,117.11
+2024-01-29,USB-C Hub,North,C00155,47.26,1,70.12
+2024-04-18,Portable Battery 20k,North,C00083,138.84,2,206.3
+2024-01-28,Noise-Canceling Headphones,South,C00023,168.88,2,215.27
+2024-02-03,Keyboard Mini,South,C00023,199.72,4,266.34
+2024-01-20,Bluetooth Speaker,East,C00296,103.34,2,149.09
+2024-02-05,Smart Bulb Kit,East,C00014,46.71,1,64.43
+2024-02-19,Keyboard Mini,West,C00262,34.41,1,49.99
+2024-01-27,Noise-Canceling Headphones,North,C00564,152.4,4,317.24
+2024-02-26,Keyboard Mini,North,C00187,298.24,4,363.55
+2024-02-04,Noise-Canceling Headphones,East,C00137,55.38,2,91.19
+2024-03-09,USB-C Hub,North,C00013,20.21,1,24.3
+2024-04-15,Noise-Canceling Headphones,East,C00123,70.44,3,125.33
+2024-02-04,Noise-Canceling Headphones,West,C00746,69.18,2,128.06
+2024-03-08,Portable Battery 20k,South,C00034,67.25,1,124.49
+2024-04-24,USB-C Hub,North,C00673,126.5,2,185.02
+2024-01-21,Portable Battery 20k,North,C00232,75.94,2,121.68
+2024-04-14,Bluetooth Speaker,North,C00683,32.08,1,51.75
+2024-02-12,Portable Battery 20k,West,C00192,52.87,1,80.12
+2024-01-25,Desk Lamp,West,C00107,48.67,1,86.08
+2024-04-22,Smart Bulb Kit,East,C00712,85,1,163.23
+2024-04-03,Portable Battery 20k,West,C00389,43.82,2,83.05
+2024-04-24,USB-C Hub,South,C00459,12.67,1,23.37
+2024-04-14,Fitness Tracker,North,C00739,79.06,2,118.82
+2024-01-31,Fitness Tracker,South,C00026,55.92,1,103.74
+2024-01-28,Bluetooth Speaker,West,C00493,87.72,2,159.55
+2024-04-29,Desk Lamp,North,C00150,81.46,1,148.01
+2024-03-28,Smart Bulb Kit,East,C00590,51.98,1,89.74
+2024-02-24,Keyboard Mini,East,C00181,251.25,3,480.73
+2024-03-16,USB-C Hub,East,C00667,174.84,2,292.26
+2024-01-03,Desk Lamp,West,C00584,61.01,1,79.88
+2024-01-30,Bluetooth Speaker,North,C00471,42.94,2,79.47
+2024-03-18,USB-C Hub,South,C00724,49.95,1,66.42
+2024-02-15,Desk Lamp,West,C00058,65,1,86.72
+2024-03-04,Keyboard Mini,East,C00085,107.24,2,129.17
+2024-04-24,USB-C Hub,West,C00428,62.98,2,84.79
+2024-01-18,USB-C Hub,East,C00118,264.6,4,336.27
+2024-02-29,Noise-Canceling Headphones,North,C00377,127.4,2,156.57
+2024-03-10,Smart Bulb Kit,North,C00487,155.66,2,203.82
+2024-01-15,Fitness Tracker,West,C00162,131.98,2,186.96
+2024-02-26,Smart Bulb Kit,West,C00015,215.76,3,286.42
+2024-02-18,Noise-Canceling Headphones,South,C00509,174.38,2,282
+2024-02-29,Keyboard Mini,North,C00800,65.32,1,83.53
+2024-01-27,Fitness Tracker,South,C00374,19.55,1,39.32
+2024-04-11,Portable Battery 20k,North,C00061,89.18,1,112.9
+2024-02-18,Noise-Canceling Headphones,East,C00262,126.66,2,226.36
+2024-01-25,Bluetooth Speaker,West,C00383,45.79,1,78.46
+2024-02-06,USB-C Hub,North,C00647,14.31,1,29.96
+2024-02-16,USB-C Hub,North,C00390,71.53,1,136.69
+2024-02-17,Smart Bulb Kit,West,C00124,101.56,2,142.38
+2024-04-02,Desk Lamp,North,C00763,68.36,2,86.6
+2024-02-06,Portable Battery 20k,West,C00335,62.4,1,125.15
+2024-03-26,Bluetooth Speaker,North,C00460,56.04,1,73.63
+2024-03-25,USB-C Hub,North,C00582,95.12,2,135.43
+2024-01-19,Portable Battery 20k,East,C00647,171.84,4,218.46
+2024-01-31,Fitness Tracker,South,C00474,53.34,1,79.47
+2024-02-24,Desk Lamp,South,C00497,44.27,1,71.64
+2024-03-01,Fitness Tracker,North,C00464,24.62,1,48.45
+2024-03-22,USB-C Hub,North,C00523,223.6,4,275.29
+2024-01-10,Desk Lamp,East,C00500,116.74,2,217.21
+2024-02-28,Bluetooth Speaker,North,C00521,25.09,1,34.41
+2024-02-01,Keyboard Mini,West,C00346,165.7,2,311.44
+2024-04-05,Noise-Canceling Headphones,West,C00606,74.24,1,137.64
+2024-03-11,Noise-Canceling Headphones,North,C00637,346.24,4,461.68
+2024-04-26,Bluetooth Speaker,East,C00011,45.69,1,71.06
+2024-02-06,Noise-Canceling Headphones,East,C00632,107.98,2,188.33
+2024-02-21,Fitness Tracker,South,C00364,69.54,2,90.07
+2024-02-09,Portable Battery 20k,South,C00188,108.32,4,155.66
+2024-04-21,Smart Bulb Kit,North,C00418,55.29,3,79.64
+2024-01-24,Bluetooth Speaker,West,C00253,34.92,2,46.35
+2024-01-25,Bluetooth Speaker,South,C00598,269.52,3,341.17
+2024-04-28,Noise-Canceling Headphones,North,C00404,128.82,2,155.73
+2024-04-12,Noise-Canceling Headphones,South,C00106,64.83,3,89.96
+2024-04-10,Desk Lamp,East,C00203,83.67,1,121.23
+2024-01-17,Smart Bulb Kit,North,C00338,32.25,1,55.23
+2024-02-16,USB-C Hub,South,C00547,117.15,5,185.55
+2024-02-09,USB-C Hub,North,C00505,162.08,4,196.84
+2024-01-01,Bluetooth Speaker,North,C00422,128.68,2,250.84
+2024-04-14,Desk Lamp,West,C00292,41.5,1,81.86
+2024-04-22,Fitness Tracker,West,C00013,15.68,1,29.98
+2024-02-21,Desk Lamp,South,C00117,102.3,2,146.14
+2024-04-04,Desk Lamp,East,C00251,126.34,2,152.91
+2024-03-31,Noise-Canceling Headphones,West,C00345,33.36,1,41.92
+2024-01-30,Bluetooth Speaker,West,C00721,64.78,1,91.98
+2024-02-13,Bluetooth Speaker,South,C00067,287.2,4,581.54
+2024-04-20,Fitness Tracker,West,C00481,15.1,1,23.88
+2024-01-25,Portable Battery 20k,North,C00648,90.78,2,141.46
+2024-01-11,Portable Battery 20k,East,C00362,21.73,1,42.18
+2024-04-21,USB-C Hub,North,C00435,147.6,3,182.41
+2024-03-15,Portable Battery 20k,East,C00043,172.74,3,333.95
+2024-04-27,Noise-Canceling Headphones,North,C00246,108.32,2,178.66
+2024-02-29,USB-C Hub,East,C00778,65.97,1,80.2
+2024-03-16,Portable Battery 20k,East,C00800,14.16,1,23.41
+2024-03-06,Bluetooth Speaker,South,C00105,36.12,1,44.86
+2024-04-11,USB-C Hub,North,C00569,48.12,4,75.99
+2024-04-29,Bluetooth Speaker,West,C00745,94.83,3,168.02
+2024-03-25,Keyboard Mini,North,C00636,109.8,2,208.41
+2024-02-01,Fitness Tracker,East,C00778,102.84,2,145.42
+2024-03-16,USB-C Hub,South,C00007,67.31,1,138.66
+2024-02-29,USB-C Hub,North,C00067,79.57,1,99.76
+2024-02-04,Portable Battery 20k,West,C00688,99.88,4,203.31
+2024-03-05,Fitness Tracker,East,C00621,67.22,1,103.8
+2024-03-10,Portable Battery 20k,South,C00105,167.18,2,333.27
+2024-04-06,Smart Bulb Kit,South,C00514,107.16,4,194.74
+2024-03-31,Keyboard Mini,North,C00534,51.36,1,79.17
+2024-02-29,USB-C Hub,West,C00667,56.79,3,67.47
+2024-04-24,Smart Bulb Kit,West,C00720,137.72,4,259.98
+2024-02-19,Smart Bulb Kit,West,C00554,193.1,5,385.88
+2024-02-23,Desk Lamp,East,C00494,20.17,1,33.7
+2024-02-28,USB-C Hub,North,C00487,223.92,4,413.78
+2024-02-23,Portable Battery 20k,North,C00616,220.5,3,345.6
+2024-03-11,Bluetooth Speaker,West,C00018,259.29,3,456.9
+2024-02-10,Keyboard Mini,West,C00220,77.63,1,160.68
+2024-02-11,Bluetooth Speaker,East,C00493,27.24,1,44.56
+2024-03-07,Desk Lamp,East,C00368,170.1,2,289.86
+2024-01-31,USB-C Hub,North,C00380,55.04,4,96.76
+2024-01-29,Smart Bulb Kit,West,C00529,21.8,1,30.07
+2024-01-08,Bluetooth Speaker,North,C00609,40.77,1,55.41
+2024-04-10,Bluetooth Speaker,East,C00334,58.07,1,69.28
+2024-03-09,Bluetooth Speaker,South,C00651,151.08,2,197.99
+2024-02-27,Keyboard Mini,East,C00449,242.94,3,288.19
+2024-03-31,Bluetooth Speaker,North,C00754,60.26,1,113.02
+2024-04-10,Bluetooth Speaker,North,C00674,59.44,4,116.9
+2024-04-05,Smart Bulb Kit,South,C00228,62.32,2,119.41
+2024-03-09,Desk Lamp,East,C00721,100.76,2,134.8
+2024-02-28,Bluetooth Speaker,South,C00020,15.6,1,29.57
+2024-02-16,Fitness Tracker,East,C00097,58.15,1,89.62
+2024-03-31,Desk Lamp,North,C00645,79.84,1,114.26
+2024-03-10,Bluetooth Speaker,East,C00213,159.64,4,233.38
+2024-03-03,Keyboard Mini,North,C00558,89.89,1,163.69
+2024-04-08,Bluetooth Speaker,South,C00620,135.5,2,231.95
+2024-04-03,USB-C Hub,South,C00497,167.61,3,330.99
+2024-01-03,Desk Lamp,North,C00499,71.71,1,104.31
+2024-01-12,Fitness Tracker,East,C00638,75.53,1,136.03
+2024-04-18,Portable Battery 20k,South,C00484,233.43,3,299.79
+2024-03-16,Noise-Canceling Headphones,West,C00001,37.49,1,55.56
+2024-01-27,Smart Bulb Kit,East,C00574,49.93,1,59.48
+2024-03-03,Portable Battery 20k,West,C00055,15.7,1,26.91
+2024-02-07,Portable Battery 20k,South,C00166,88.63,1,140.45
+2024-04-07,Bluetooth Speaker,North,C00028,43.71,1,61.04
+2024-04-21,Portable Battery 20k,East,C00169,60.68,2,122.8
+2024-01-05,USB-C Hub,South,C00126,113.98,2,149.13
+2024-01-14,Bluetooth Speaker,North,C00492,138.3,3,268.62
+2024-03-25,Keyboard Mini,South,C00044,31.38,2,60.47
+2024-02-24,Fitness Tracker,East,C00144,32.93,1,39.54
+2024-01-20,USB-C Hub,East,C00318,55.1,1,68.02
+2024-04-17,Noise-Canceling Headphones,East,C00266,69.63,1,88.72
+2024-01-12,Portable Battery 20k,North,C00311,65.8,1,118.65
+2024-03-30,Desk Lamp,East,C00385,42.36,3,84.06
+2024-01-05,Fitness Tracker,South,C00134,27.34,1,52.21
+2024-01-10,Portable Battery 20k,North,C00142,40.96,1,58.02
+2024-03-12,Keyboard Mini,South,C00143,73.64,2,88.77
+2024-04-05,Portable Battery 20k,East,C00628,59,2,93.54
+2024-01-24,USB-C Hub,South,C00674,62.36,1,130.49
+2024-04-25,Desk Lamp,West,C00735,101.02,2,167.93
+2024-02-17,Portable Battery 20k,West,C00712,31.54,1,50.59
+2024-04-04,Noise-Canceling Headphones,East,C00583,83.24,1,139.11
+2024-01-30,Bluetooth Speaker,East,C00022,377.4,5,645.77
+2024-01-03,Fitness Tracker,North,C00089,139.36,2,225.57
+2024-03-26,Bluetooth Speaker,East,C00795,110.76,2,142.49
+2024-04-03,Noise-Canceling Headphones,South,C00635,48.93,3,89.3
+2024-01-27,USB-C Hub,North,C00479,213,3,346.47
+2024-01-06,USB-C Hub,West,C00323,64.06,1,87.03
+2024-04-29,Portable Battery 20k,North,C00120,62.51,1,84.17
+2024-03-11,USB-C Hub,North,C00443,45.42,3,52.95
+2024-01-21,Bluetooth Speaker,West,C00791,122.68,2,253.79
+2024-03-27,Noise-Canceling Headphones,West,C00021,128.38,2,189.77
+2024-02-29,Portable Battery 20k,West,C00729,20.99,1,42.66
+2024-01-28,Portable Battery 20k,North,C00578,106.06,2,218.63
+2024-03-26,Noise-Canceling Headphones,North,C00017,168.36,2,335.32
+2024-01-03,Portable Battery 20k,East,C00460,229.35,3,456.59
+2024-04-16,USB-C Hub,North,C00548,56.3,1,105.49
+2024-02-25,Bluetooth Speaker,West,C00476,38.94,2,66.7
+2024-04-08,Portable Battery 20k,North,C00527,32.25,1,40.98
+2024-04-17,Portable Battery 20k,East,C00197,28.75,1,47.93
+2024-02-03,Smart Bulb Kit,North,C00432,235.68,3,342.66
+2024-02-14,Portable Battery 20k,North,C00337,56.47,1,97.11
+2024-01-19,Bluetooth Speaker,East,C00238,25.84,1,52.76
+2024-01-26,Bluetooth Speaker,West,C00408,133.76,2,239.28
+2024-03-13,Noise-Canceling Headphones,East,C00757,63.45,1,86.17
+2024-04-04,Keyboard Mini,North,C00148,163.12,2,287.94
+2024-03-03,Smart Bulb Kit,West,C00068,86.42,2,138.79
+2024-02-09,USB-C Hub,South,C00111,35.67,1,49.04
+2024-03-30,Smart Bulb Kit,East,C00212,66.7,1,80.01
+2024-01-03,Bluetooth Speaker,North,C00441,27.74,1,43.62
+2024-02-22,Smart Bulb Kit,South,C00143,73.82,2,88.03
+2024-04-18,Bluetooth Speaker,South,C00483,54.97,1,65.23
+2024-01-28,Fitness Tracker,East,C00325,178.15,5,208.17
+2024-03-10,Portable Battery 20k,East,C00209,51.53,1,64.87
+2024-02-27,Desk Lamp,North,C00311,82.3,1,115.62
+2024-02-01,Fitness Tracker,East,C00531,15.81,1,30.52
+2024-04-06,Fitness Tracker,West,C00026,86.05,1,177.74
+2024-01-27,Keyboard Mini,East,C00522,68.75,1,140.59
+2024-02-21,Bluetooth Speaker,South,C00532,74.28,2,106.01
+2024-01-26,Desk Lamp,East,C00012,161.04,2,227.24
+2024-03-21,Desk Lamp,East,C00305,334.35,5,404.38
+2024-03-29,Desk Lamp,North,C00730,63.88,2,91.06
+2024-01-22,Portable Battery 20k,East,C00337,26.67,1,44.8
+2024-04-04,Desk Lamp,North,C00428,77.22,2,157.62
+2024-02-09,Desk Lamp,South,C00576,25.67,1,34.52
+2024-04-03,Bluetooth Speaker,North,C00130,82.34,2,159.8
+2024-04-07,Portable Battery 20k,South,C00614,65.83,1,85.22
+2024-04-08,Bluetooth Speaker,South,C00002,79.59,1,155.83
+2024-02-16,Keyboard Mini,South,C00020,82.17,1,147.6
+2024-01-27,Desk Lamp,East,C00071,138.98,2,277.74
+2024-04-11,Desk Lamp,East,C00787,82.17,1,130.78
+2024-04-16,USB-C Hub,North,C00529,84.41,1,108.31
+2024-03-13,Desk Lamp,North,C00323,71.66,2,96.04
+2024-01-27,Bluetooth Speaker,East,C00487,33.98,2,40.66
+2024-01-19,Smart Bulb Kit,West,C00320,89.32,1,137.74
+2024-01-15,Bluetooth Speaker,South,C00310,13.11,1,20.5
+2024-03-07,Desk Lamp,South,C00433,136.78,2,199.95
+2024-02-29,Noise-Canceling Headphones,South,C00125,83.54,1,113.91
+2024-01-09,Bluetooth Speaker,East,C00136,74.75,1,123.2
+2024-02-07,Portable Battery 20k,East,C00308,37.27,1,73.82
+2024-02-11,Desk Lamp,South,C00230,48.16,2,66.9
+2024-02-09,Noise-Canceling Headphones,South,C00059,119,2,160.27
+2024-03-01,Keyboard Mini,North,C00691,202.52,4,365.57
+2024-02-23,Bluetooth Speaker,South,C00269,111.22,2,201.73
+2024-01-24,Desk Lamp,West,C00425,14.04,1,27.85
+2024-01-09,Fitness Tracker,West,C00062,34.09,1,65.32
+2024-04-02,Portable Battery 20k,West,C00209,85.02,1,114.77
+2024-03-23,Noise-Canceling Headphones,South,C00353,71.58,2,141.55
+2024-02-25,Portable Battery 20k,East,C00058,35.49,1,65.27
+2024-01-15,USB-C Hub,South,C00018,241.72,4,459.34
+2024-02-01,Bluetooth Speaker,West,C00277,148.98,2,280.88
+2024-03-03,Portable Battery 20k,East,C00431,139.42,2,263.12
+2024-01-09,USB-C Hub,South,C00779,146.08,4,196.04
+2024-01-08,Desk Lamp,West,C00063,109.6,2,133.75
+2024-01-11,Bluetooth Speaker,East,C00696,19.8,1,27.01
+2024-03-04,Portable Battery 20k,South,C00292,81.79,1,102.16
+2024-03-25,Portable Battery 20k,East,C00579,55.83,3,88.61
+2024-03-25,Desk Lamp,North,C00135,43.12,1,69.95
+2024-04-11,Smart Bulb Kit,East,C00378,64.84,1,83.1
+2024-03-14,USB-C Hub,North,C00176,79.96,1,125.46
+2024-03-28,USB-C Hub,East,C00366,114.8,4,203.6
+2024-01-16,Keyboard Mini,East,C00193,213,5,427.35
+2024-04-17,Keyboard Mini,South,C00270,106.52,2,201.8
+2024-01-17,Bluetooth Speaker,South,C00266,48.36,1,89.45
+2024-02-12,Bluetooth Speaker,North,C00358,212.61,3,323.85
+2024-01-23,Keyboard Mini,West,C00676,62.53,1,86.46
+2024-03-23,USB-C Hub,East,C00751,17.25,1,33.9
+2024-02-25,Fitness Tracker,South,C00531,108.44,2,139.65
+2024-02-28,Smart Bulb Kit,South,C00241,151.38,2,251.35
+2024-04-22,USB-C Hub,South,C00348,128.76,2,152.54
+2024-02-18,Bluetooth Speaker,West,C00629,114.38,2,220.01
+2024-03-19,USB-C Hub,East,C00175,145.3,2,268.23
+2024-02-07,Noise-Canceling Headphones,West,C00281,54.05,1,72.37
+2024-01-13,Bluetooth Speaker,North,C00755,299.28,4,372.5
+2024-02-21,Desk Lamp,West,C00258,45.84,1,92.96
+2024-04-29,USB-C Hub,East,C00203,113.02,2,231.2
+2024-03-15,Portable Battery 20k,West,C00352,48.64,4,72.82
+2024-04-19,Smart Bulb Kit,South,C00677,44.21,1,90.13
+2024-04-05,Portable Battery 20k,North,C00449,59.41,1,72.52
+2024-01-26,Noise-Canceling Headphones,South,C00452,441.95,5,924.45
+2024-03-09,Smart Bulb Kit,South,C00615,31.76,2,48.9
+2024-02-08,Fitness Tracker,West,C00777,59.84,4,117.59
+2024-02-26,Fitness Tracker,East,C00097,41.72,2,64.36
+2024-02-08,Noise-Canceling Headphones,South,C00203,93.5,2,178.4
+2024-02-04,Portable Battery 20k,East,C00553,86.32,1,154.82
+2024-02-02,Smart Bulb Kit,South,C00144,31.18,1,47.4
+2024-01-26,Fitness Tracker,West,C00421,231.51,3,475.92
+2024-02-03,USB-C Hub,North,C00189,67.95,1,126.85
+2024-01-24,Portable Battery 20k,East,C00702,40.76,1,58.37
+2024-04-12,Bluetooth Speaker,North,C00629,12.02,1,17.07
+2024-04-29,Desk Lamp,East,C00649,25.34,2,52.82
+2024-04-26,Portable Battery 20k,West,C00034,171.98,2,277.23
+2024-04-28,Noise-Canceling Headphones,East,C00744,53.14,1,61.8
+2024-01-20,Bluetooth Speaker,East,C00451,313.36,4,467.58
+2024-04-15,Smart Bulb Kit,North,C00124,192.56,4,318.48
+2024-03-30,Noise-Canceling Headphones,North,C00398,37.62,1,57.15
+2024-01-03,USB-C Hub,South,C00578,68.56,2,83.39
+2024-02-27,Desk Lamp,East,C00137,21.64,1,25.98
+2024-03-26,Fitness Tracker,North,C00410,71.5,1,96.32
+2024-01-02,Portable Battery 20k,South,C00161,124.6,2,199.34
+2024-01-22,USB-C Hub,West,C00679,231.84,3,453.67
+2024-02-05,Fitness Tracker,East,C00775,158.19,3,212.5
+2024-03-27,Portable Battery 20k,East,C00677,154.38,2,258.12
+2024-03-14,Portable Battery 20k,West,C00034,151.83,3,304.8
+2024-02-26,Portable Battery 20k,South,C00513,173.4,2,272.29
+2024-04-17,Smart Bulb Kit,East,C00280,117.45,3,165.18
+2024-03-09,Fitness Tracker,East,C00114,29.31,1,55.69
+2024-03-19,Noise-Canceling Headphones,North,C00354,134.24,2,166.11
+2024-04-03,Noise-Canceling Headphones,West,C00332,162.96,3,277.18
+2024-01-02,Smart Bulb Kit,North,C00400,163.68,4,233.49
+2024-02-15,Portable Battery 20k,East,C00480,82.37,1,168.51
+2024-04-29,USB-C Hub,East,C00481,33.02,1,61.78
+2024-04-07,Keyboard Mini,West,C00375,56.3,1,90.67
+2024-03-14,Portable Battery 20k,West,C00162,40.44,1,80.9
+2024-03-24,Portable Battery 20k,South,C00663,81.88,1,149.44
+2024-02-23,Desk Lamp,East,C00396,56.4,1,111.82
+2024-01-22,Noise-Canceling Headphones,North,C00139,34.38,1,48.79
+2024-02-24,Bluetooth Speaker,North,C00147,154.08,2,199.13
+2024-04-16,Noise-Canceling Headphones,South,C00640,76.68,3,99.3
+2024-02-01,Keyboard Mini,East,C00388,166.74,2,289.93
+2024-02-19,Bluetooth Speaker,South,C00564,176.46,2,339.34
+2024-04-04,Noise-Canceling Headphones,East,C00199,53.24,1,66.39
+2024-03-20,Noise-Canceling Headphones,North,C00760,189.69,3,340.2
+2024-04-25,Portable Battery 20k,South,C00074,56.19,1,100.34
+2024-01-17,Bluetooth Speaker,East,C00561,56.59,1,103.9
+2024-04-25,USB-C Hub,West,C00178,70.89,1,82.05
+2024-04-05,Noise-Canceling Headphones,East,C00675,14.23,1,17.44
+2024-04-21,USB-C Hub,South,C00251,361.35,5,656.94
+2024-02-18,Desk Lamp,North,C00218,20.34,1,31.77
+2024-04-27,USB-C Hub,East,C00257,64.38,1,97.43
+2024-02-29,Bluetooth Speaker,North,C00014,158.97,3,329.96
+2024-01-07,Fitness Tracker,South,C00663,154.84,4,273.78
+2024-04-20,Keyboard Mini,West,C00100,331.16,4,508.77
+2024-04-10,Portable Battery 20k,East,C00789,80.51,1,100.54
+2024-03-07,Bluetooth Speaker,South,C00070,172.04,2,294.14
+2024-02-14,Portable Battery 20k,West,C00665,72.05,1,108.88
+2024-02-28,Bluetooth Speaker,West,C00381,79.95,3,149.74
+2024-02-28,Noise-Canceling Headphones,East,C00307,64.58,1,116.8
+2024-01-06,Desk Lamp,East,C00163,88.03,1,148.11
+2024-01-03,Smart Bulb Kit,North,C00579,36.32,2,51.29
+2024-01-25,Noise-Canceling Headphones,West,C00594,72.08,4,147.56
+2024-04-28,Keyboard Mini,East,C00275,67.31,1,124.31
+2024-04-05,Bluetooth Speaker,North,C00196,343.48,4,694.58
+2024-01-18,Portable Battery 20k,North,C00240,62.84,1,116.73
+2024-02-25,Noise-Canceling Headphones,South,C00291,30.4,1,56.89
+2024-04-09,Portable Battery 20k,East,C00187,29.04,1,38.03
+2024-04-20,USB-C Hub,South,C00103,62.25,1,125.09
+2024-04-19,Desk Lamp,East,C00636,255.12,3,516.57
+2024-03-28,Bluetooth Speaker,North,C00550,33.32,1,69.77
+2024-02-05,Fitness Tracker,South,C00247,128.49,3,244.98
+2024-03-30,USB-C Hub,East,C00439,170.08,2,315.65
+2024-03-04,Portable Battery 20k,East,C00554,161.22,2,270.69
+2024-02-15,Portable Battery 20k,North,C00271,62.41,1,75.47
+2024-04-27,Noise-Canceling Headphones,West,C00534,27.78,1,39.86
+2024-03-31,Smart Bulb Kit,South,C00646,83.76,1,111.02
+2024-01-04,Desk Lamp,South,C00004,66.67,1,77.54
+2024-01-11,Portable Battery 20k,South,C00200,212.01,3,357.98
+2024-03-22,Portable Battery 20k,South,C00730,38.85,1,62.77
+2024-01-27,Smart Bulb Kit,East,C00503,91.62,2,107.69
+2024-04-12,Fitness Tracker,North,C00339,355.64,4,718.96
+2024-02-17,Smart Bulb Kit,West,C00343,124.6,2,206.02
+2024-02-27,Bluetooth Speaker,South,C00073,46.65,1,93.18
+2024-03-22,Noise-Canceling Headphones,South,C00312,80.66,2,138.44
+2024-04-07,Portable Battery 20k,East,C00765,53.32,2,92.55
+2024-03-17,Portable Battery 20k,South,C00099,40.3,2,77.99
+2024-04-29,USB-C Hub,East,C00404,50.52,2,95.5
+2024-02-28,Desk Lamp,North,C00017,168.64,2,273.85
+2024-03-29,Fitness Tracker,South,C00694,42.84,1,86.29
+2024-01-03,Smart Bulb Kit,South,C00670,75.22,1,99.33
+2024-01-09,Portable Battery 20k,North,C00075,119.08,2,228.98
+2024-04-14,Keyboard Mini,South,C00150,71.65,1,137.47
+2024-03-25,Smart Bulb Kit,North,C00763,60.82,2,74.74
+2024-03-03,Noise-Canceling Headphones,West,C00716,31.09,1,37.7
+2024-03-22,Portable Battery 20k,South,C00567,72.32,1,138.73
+2024-03-03,Portable Battery 20k,East,C00725,140.46,2,266.89
+2024-01-22,Keyboard Mini,North,C00348,86.54,2,158.65
+2024-04-15,Smart Bulb Kit,North,C00061,130.96,2,170.93
+2024-01-11,Bluetooth Speaker,West,C00283,28.27,1,38.21
+2024-01-13,Portable Battery 20k,West,C00426,145.9,5,183.45
+2024-04-17,Portable Battery 20k,West,C00173,259.68,4,372.55
+2024-03-10,USB-C Hub,West,C00544,44.19,1,65.68
+2024-03-05,Keyboard Mini,South,C00638,33.54,1,48.18
+2024-04-23,Noise-Canceling Headphones,West,C00558,38.07,1,60.75
+2024-03-30,Bluetooth Speaker,West,C00626,42.39,1,70.63
+2024-02-29,Bluetooth Speaker,East,C00178,16.28,1,25.6
+2024-03-16,Bluetooth Speaker,South,C00317,318.84,4,449.72
+2024-04-15,Bluetooth Speaker,East,C00025,82.12,1,125.17
+2024-01-14,Portable Battery 20k,West,C00540,77.83,1,137.68
+2024-01-23,Fitness Tracker,West,C00061,98.94,2,126.92
+2024-01-15,Portable Battery 20k,North,C00017,110.8,2,182.81
+2024-04-03,Bluetooth Speaker,East,C00332,15.01,1,27.25
+2024-04-29,Portable Battery 20k,North,C00315,46.16,2,83.86
+2024-03-01,Desk Lamp,East,C00082,114.84,3,217.92
+2024-04-23,Bluetooth Speaker,East,C00487,47.5,1,84.42
+2024-03-03,Fitness Tracker,East,C00054,76.08,1,133.45
+2024-03-20,Portable Battery 20k,North,C00706,27.96,1,54.28
+2024-01-01,Desk Lamp,East,C00662,50.32,2,71.33
+2024-02-13,Fitness Tracker,North,C00359,35.94,1,71.26
+2024-01-25,Bluetooth Speaker,East,C00685,64.44,1,128.98
+2024-02-18,Portable Battery 20k,West,C00709,53.25,1,72.64
+2024-04-28,Bluetooth Speaker,South,C00089,66.05,1,135.82
+2024-01-27,Desk Lamp,North,C00753,134.8,4,242.42
+2024-03-31,Noise-Canceling Headphones,West,C00621,22.4,1,45.82
+2024-02-22,Noise-Canceling Headphones,East,C00589,21.54,1,40.56
+2024-02-27,Bluetooth Speaker,West,C00343,87.86,1,171.76
+2024-03-04,Desk Lamp,East,C00319,82.9,1,129.35
+2024-01-09,Bluetooth Speaker,East,C00748,87.11,1,141.84
+2024-03-14,Noise-Canceling Headphones,East,C00456,118.62,2,214.71
+2024-03-28,Smart Bulb Kit,West,C00319,43.12,1,89.03
+2024-04-25,Desk Lamp,West,C00547,47.73,1,98.18
+2024-01-21,Noise-Canceling Headphones,North,C00057,83.02,2,146.64
+2024-04-07,Bluetooth Speaker,North,C00669,31.93,1,59.51
+2024-02-14,Fitness Tracker,West,C00059,94.86,2,173.53
+2024-04-09,Keyboard Mini,West,C00020,200.52,4,277.22
+2024-03-03,Desk Lamp,West,C00381,139.88,2,170.6
+2024-04-07,Portable Battery 20k,South,C00752,77.7,1,97.32
+2024-03-21,Keyboard Mini,East,C00567,136.22,2,194.25
+2024-04-12,Bluetooth Speaker,East,C00740,34.02,2,53
+2024-03-17,Portable Battery 20k,East,C00665,15.04,1,28.5
+2024-02-27,Fitness Tracker,South,C00021,33.45,1,56.14
+2024-03-04,Bluetooth Speaker,East,C00670,123.64,2,144.6
+2024-01-09,Smart Bulb Kit,North,C00380,57.91,1,74.88
+2024-04-14,Smart Bulb Kit,North,C00441,167.75,5,205.97
+2024-04-02,Desk Lamp,North,C00300,30.82,1,55.73
+2024-01-26,Portable Battery 20k,South,C00414,82.81,1,150.03
+2024-04-13,Smart Bulb Kit,South,C00314,61.6,2,129.08
+2024-02-23,Portable Battery 20k,North,C00199,58.57,1,114.8
+2024-02-26,Noise-Canceling Headphones,South,C00670,20.24,1,37.77
+2024-01-14,Noise-Canceling Headphones,North,C00642,112.94,2,172.04
+2024-04-24,Noise-Canceling Headphones,West,C00180,34.23,1,60.04
+2024-01-26,Noise-Canceling Headphones,West,C00343,53,2,96.43
+2024-04-03,Smart Bulb Kit,South,C00556,72.25,1,112.82
+2024-01-30,USB-C Hub,West,C00022,65.4,3,121.38
+2024-01-04,USB-C Hub,West,C00225,37.73,1,64.59
+2024-03-28,Fitness Tracker,West,C00530,131.3,2,248.48
+2024-04-15,Noise-Canceling Headphones,South,C00049,79.05,1,95.18
+2024-02-09,Fitness Tracker,West,C00560,103.88,2,214.49
+2024-02-14,Bluetooth Speaker,East,C00257,89.38,1,174.66
+2024-02-25,USB-C Hub,South,C00352,36.74,2,61.39
+2024-01-13,Desk Lamp,East,C00094,43.29,1,54.08
+2024-03-07,Portable Battery 20k,South,C00150,144.48,3,222.63
+2024-03-29,Bluetooth Speaker,East,C00206,172.06,2,229.07
+2024-01-31,USB-C Hub,West,C00050,127.71,3,160.21
+2024-01-13,Bluetooth Speaker,East,C00518,80.46,2,142.75
+2024-02-27,Bluetooth Speaker,North,C00135,79.23,1,124.54
+2024-02-26,Bluetooth Speaker,South,C00380,50.54,1,105.64
+2024-01-17,Keyboard Mini,West,C00513,67.36,2,110.92
+2024-01-18,Bluetooth Speaker,South,C00425,144.42,3,201.25
+2024-02-07,Desk Lamp,North,C00564,202.95,3,250.58
+2024-03-09,Noise-Canceling Headphones,West,C00772,61.47,1,109.15
+2024-03-20,Smart Bulb Kit,North,C00027,185.88,3,266.03
+2024-01-16,Keyboard Mini,South,C00171,36.82,1,51.45
+2024-03-30,Bluetooth Speaker,East,C00303,74.04,4,101.18
+2024-02-08,Portable Battery 20k,South,C00122,83.01,3,109.44
+2024-04-18,Desk Lamp,West,C00371,63.18,3,108.81
+2024-01-11,Bluetooth Speaker,South,C00525,150.14,2,214.8
+2024-03-17,Smart Bulb Kit,East,C00707,318.52,4,622
+2024-03-14,Smart Bulb Kit,South,C00626,152.9,2,288.61
+2024-02-28,USB-C Hub,West,C00317,62.32,2,93.3
+2024-03-04,Smart Bulb Kit,South,C00669,97.56,3,149.8
+2024-02-29,Noise-Canceling Headphones,West,C00522,43.12,1,57.34
+2024-02-03,Bluetooth Speaker,South,C00633,217.28,4,412.62
+2024-03-23,Noise-Canceling Headphones,East,C00250,52.28,4,103.85
+2024-02-24,USB-C Hub,North,C00224,47.28,1,87.7
+2024-04-02,Smart Bulb Kit,South,C00116,43.07,1,86.03
+2024-01-01,Portable Battery 20k,West,C00384,85.18,2,158.23
+2024-04-28,Portable Battery 20k,North,C00537,62.07,1,75.52
+2024-04-04,Desk Lamp,East,C00663,120.66,2,193.22
+2024-01-07,Keyboard Mini,North,C00138,72.22,1,146.86
+2024-03-16,Desk Lamp,South,C00606,111.3,2,204.12
+2024-03-02,Smart Bulb Kit,West,C00087,51.15,1,81.03
+2024-02-17,Portable Battery 20k,West,C00499,68.28,2,141.56
+2024-04-21,Desk Lamp,North,C00122,105.4,2,150.33
+2024-03-04,Fitness Tracker,South,C00296,23.43,1,40.84
+2024-03-02,Bluetooth Speaker,East,C00084,247.98,3,457.42
+2024-04-26,Portable Battery 20k,East,C00572,52.77,1,96.2
+2024-02-23,Smart Bulb Kit,South,C00121,49.54,2,88.04
+2024-01-03,Fitness Tracker,East,C00615,61.54,1,109.13
+2024-04-08,Noise-Canceling Headphones,South,C00437,110.72,2,193.15
+2024-01-16,USB-C Hub,West,C00337,48.82,1,87.47
+2024-01-13,Bluetooth Speaker,East,C00104,33.62,1,45.18
+2024-04-04,Smart Bulb Kit,South,C00463,430.9,5,668.01
+2024-01-11,Portable Battery 20k,North,C00320,30.94,1,61.6
+2024-03-31,Fitness Tracker,East,C00111,13.33,1,17.17
+2024-03-29,Bluetooth Speaker,West,C00130,46.75,1,59.65
+2024-01-14,Desk Lamp,West,C00450,12.26,1,18.39
+2024-02-16,USB-C Hub,West,C00794,227.88,3,328.7
+2024-02-25,USB-C Hub,North,C00534,336.45,5,683.17
+2024-03-20,Bluetooth Speaker,South,C00018,14.26,1,19.08
+2024-04-02,Bluetooth Speaker,West,C00620,101.94,3,198.77
+2024-04-24,Fitness Tracker,North,C00042,244.02,3,445.49
+2024-01-30,Desk Lamp,South,C00657,211.74,3,267.47
+2024-02-11,Bluetooth Speaker,West,C00126,104.7,3,124.12
+2024-01-15,USB-C Hub,West,C00773,51.51,1,75.71
+2024-03-02,Smart Bulb Kit,South,C00252,184.08,4,383.8
+2024-03-08,Portable Battery 20k,South,C00579,99.2,4,150.96
+2024-01-30,Portable Battery 20k,East,C00135,74.03,1,154.7
+2024-04-08,Noise-Canceling Headphones,South,C00189,20.09,1,26.42
+2024-02-02,Bluetooth Speaker,East,C00148,113,2,138.63
+2024-01-23,Smart Bulb Kit,East,C00081,253.89,3,400.31
+2024-01-26,Portable Battery 20k,North,C00273,12.79,1,21.12
+2024-01-07,Smart Bulb Kit,North,C00252,53.62,2,73.63
+2024-01-17,Bluetooth Speaker,South,C00715,269.46,3,482.25
+2024-01-23,Noise-Canceling Headphones,East,C00681,145.88,2,182.09
+2024-04-28,USB-C Hub,East,C00300,19.21,1,39.34
+2024-04-29,Smart Bulb Kit,East,C00741,104.04,2,164.45
+2024-03-04,USB-C Hub,West,C00362,129.4,2,231.16
+2024-01-07,Bluetooth Speaker,North,C00318,82.25,1,167.22
+2024-03-09,Fitness Tracker,East,C00131,130.42,2,168.72
+2024-03-10,Noise-Canceling Headphones,East,C00465,91.56,4,129.87
+2024-02-26,Noise-Canceling Headphones,West,C00652,89,1,161.27
+2024-03-07,Bluetooth Speaker,West,C00214,103.94,2,201.41
+2024-03-03,USB-C Hub,South,C00285,61.41,1,119.44
+2024-03-22,Smart Bulb Kit,East,C00152,44.55,1,69.44
+2024-01-03,Smart Bulb Kit,West,C00494,27.68,1,47.37
+2024-03-08,Fitness Tracker,West,C00745,40.96,2,60.2
+2024-02-08,Keyboard Mini,South,C00766,37.59,3,65.3
+2024-02-28,Noise-Canceling Headphones,East,C00694,121.34,2,169.99
+2024-03-09,Keyboard Mini,West,C00129,17.99,1,29.55
+2024-03-31,Portable Battery 20k,West,C00383,291.1,5,363.41
+2024-02-29,Portable Battery 20k,North,C00264,29.67,1,39.2
+2024-03-20,Portable Battery 20k,East,C00012,111.88,2,209.56
+2024-04-18,Portable Battery 20k,North,C00475,51.78,3,85.67
+2024-01-17,Keyboard Mini,North,C00083,147.98,2,239.48
+2024-03-10,Portable Battery 20k,East,C00564,151.46,2,185.97
+2024-04-29,Portable Battery 20k,East,C00220,107.22,2,132.41
+2024-04-24,USB-C Hub,East,C00609,18.33,1,36.7
+2024-02-23,Portable Battery 20k,South,C00471,140.37,3,278.2
+2024-01-15,Smart Bulb Kit,East,C00324,56.97,3,72.85
+2024-01-24,Noise-Canceling Headphones,South,C00681,52.08,2,78.16
+2024-03-16,Portable Battery 20k,East,C00360,167.6,4,304.85
+2024-03-30,Keyboard Mini,North,C00067,119.8,2,151.98
+2024-01-01,Keyboard Mini,North,C00756,75.94,1,122.48
+2024-03-04,Portable Battery 20k,East,C00159,112.62,3,216.12
+2024-02-29,Noise-Canceling Headphones,East,C00378,43.35,1,50.16
+2024-02-09,Desk Lamp,East,C00671,110.3,2,152.63
+2024-04-12,Bluetooth Speaker,East,C00298,16.99,1,31.43
+2024-02-11,Noise-Canceling Headphones,West,C00467,29.88,1,36.97
+2024-03-03,Bluetooth Speaker,South,C00791,38.86,2,66.36
+2024-01-03,Keyboard Mini,South,C00293,74.13,1,121.45
+2024-03-26,Bluetooth Speaker,North,C00475,167.26,2,206.76
+2024-02-23,USB-C Hub,South,C00641,136.95,3,218.67
+2024-04-25,Bluetooth Speaker,West,C00649,12.88,1,19.34
+2024-01-09,Noise-Canceling Headphones,West,C00238,123.84,2,194.38
+2024-01-31,Smart Bulb Kit,South,C00065,14.53,1,27.3
+2024-03-26,Portable Battery 20k,North,C00200,63.62,1,86.22
+2024-02-15,Fitness Tracker,South,C00343,129.74,2,219
+2024-04-14,Portable Battery 20k,West,C00575,76.45,1,148.26
+2024-01-19,Bluetooth Speaker,North,C00754,21.82,1,30.34
+2024-04-25,USB-C Hub,South,C00063,354.16,4,539.33
+2024-02-10,Portable Battery 20k,South,C00445,45.46,1,77.95
+2024-02-19,Fitness Tracker,West,C00414,79.95,1,131.13
+2024-01-07,Bluetooth Speaker,East,C00213,71.8,1,145.32
+2024-01-16,Keyboard Mini,South,C00087,124.95,3,212.92
+2024-04-09,Bluetooth Speaker,West,C00028,152.32,2,264.32
+2024-02-21,Portable Battery 20k,North,C00355,82.55,1,153.09
+2024-02-02,Portable Battery 20k,North,C00278,148.8,4,172.63
+2024-02-12,Noise-Canceling Headphones,North,C00345,93.56,2,166.93
+2024-01-26,Fitness Tracker,North,C00015,327.44,4,683.05
+2024-04-21,USB-C Hub,East,C00790,46.33,1,81.58
+2024-02-10,Portable Battery 20k,West,C00059,41.24,2,47.7
+2024-02-07,Noise-Canceling Headphones,South,C00161,86.55,1,165.36
+2024-03-29,USB-C Hub,North,C00564,67.51,1,123.83
+2024-02-16,Bluetooth Speaker,South,C00657,99.22,2,145.75
+2024-02-21,USB-C Hub,South,C00764,222.81,3,256.79
+2024-03-30,Bluetooth Speaker,East,C00469,19.79,1,26.8
+2024-02-15,Bluetooth Speaker,South,C00306,56.12,1,97.55
+2024-04-05,Fitness Tracker,West,C00656,67.12,1,88.91
+2024-01-05,Noise-Canceling Headphones,South,C00253,65.16,1,97.88
+2024-03-29,Portable Battery 20k,West,C00024,173.4,2,336.37
+2024-01-19,Bluetooth Speaker,East,C00432,15.72,1,20.3
+2024-04-05,USB-C Hub,East,C00713,212.01,3,380.94
+2024-02-08,Desk Lamp,West,C00390,53.83,1,67.99
+2024-02-13,Portable Battery 20k,West,C00098,55.48,1,114.4
+2024-03-06,Bluetooth Speaker,South,C00265,200.24,4,361.72
+2024-03-04,Bluetooth Speaker,West,C00368,55.41,1,93.94
+2024-01-13,Bluetooth Speaker,East,C00350,62.94,2,107.92
+2024-03-29,Portable Battery 20k,East,C00341,60.05,5,86.75
+2024-04-22,Desk Lamp,West,C00371,22.66,1,46.45
+2024-03-28,Portable Battery 20k,East,C00648,201.24,3,321.26
+2024-01-03,Noise-Canceling Headphones,South,C00571,151.04,2,230.04
+2024-04-19,Fitness Tracker,South,C00217,108.08,2,204.94
+2024-02-05,Portable Battery 20k,West,C00402,21.68,1,37.96
+2024-01-10,Desk Lamp,South,C00002,89.59,1,126.76
+2024-04-27,Bluetooth Speaker,North,C00388,204.03,3,424.06
+2024-04-17,Portable Battery 20k,South,C00415,81.96,1,94.31
+2024-04-17,Fitness Tracker,North,C00127,173.64,2,343
+2024-02-08,Bluetooth Speaker,West,C00654,16.8,1,24.21
+2024-03-11,Noise-Canceling Headphones,South,C00632,89.92,1,188.51
+2024-03-04,Keyboard Mini,West,C00634,165.06,2,325.64
+2024-02-20,Bluetooth Speaker,East,C00699,37.86,1,54.81
+2024-02-25,Bluetooth Speaker,East,C00147,36.01,1,54.79
+2024-03-20,Portable Battery 20k,West,C00190,28.16,2,50.22
+2024-01-17,Fitness Tracker,North,C00002,38.8,1,74.66
+2024-03-20,Fitness Tracker,West,C00758,78.48,1,136.6
+2024-03-25,Portable Battery 20k,North,C00036,184.02,3,214.6
+2024-04-02,Smart Bulb Kit,North,C00607,123.48,4,257.09
+2024-03-01,Bluetooth Speaker,South,C00122,131.26,2,265.47
+2024-04-23,Keyboard Mini,South,C00370,49.74,1,84.21
+2024-04-11,Smart Bulb Kit,North,C00520,269.43,3,519.09
+2024-03-12,Portable Battery 20k,West,C00606,21.81,1,35.83
+2024-03-08,Keyboard Mini,West,C00798,183.3,3,264.39
+2024-01-06,Portable Battery 20k,North,C00563,15.2,1,23.49
+2024-01-08,Keyboard Mini,North,C00104,58.68,1,84.47
+2024-01-20,Desk Lamp,East,C00580,44.69,1,60.94
+2024-03-23,Bluetooth Speaker,East,C00538,71.82,2,109.8
+2024-02-08,Portable Battery 20k,West,C00290,237.96,3,331.26
+2024-02-13,Noise-Canceling Headphones,South,C00655,152.02,2,301.45
+2024-04-02,Desk Lamp,North,C00668,70.18,2,140.81
+2024-03-07,Bluetooth Speaker,West,C00158,14.31,1,24.03
+2024-02-28,Bluetooth Speaker,East,C00482,95.1,3,186.92
+2024-01-08,Fitness Tracker,East,C00459,83.52,1,114.72
+2024-02-01,Bluetooth Speaker,East,C00488,178.4,5,222.26
+2024-01-15,Portable Battery 20k,North,C00319,78.23,1,142.5
+2024-04-10,Portable Battery 20k,North,C00650,80.88,1,118.57
+2024-02-23,USB-C Hub,East,C00613,89.51,1,105.54
+2024-02-06,Fitness Tracker,South,C00264,75.84,1,119.6
+2024-03-25,Keyboard Mini,East,C00294,37.72,2,77.23
+2024-03-22,Noise-Canceling Headphones,North,C00721,85.84,1,135.48
+2024-01-04,Smart Bulb Kit,East,C00445,34.27,1,53.53
+2024-01-19,Bluetooth Speaker,West,C00361,53.1,2,80.73
+2024-03-12,Bluetooth Speaker,East,C00607,19.26,1,24.66
+2024-01-24,Bluetooth Speaker,North,C00647,109.28,2,202.84
+2024-03-21,Fitness Tracker,North,C00531,21.3,1,35.34
+2024-03-09,Noise-Canceling Headphones,East,C00751,48.51,1,84.27
+2024-01-11,Smart Bulb Kit,South,C00205,45.88,1,83.54
+2024-03-24,Noise-Canceling Headphones,East,C00165,64.82,1,122.26
+2024-03-13,Fitness Tracker,East,C00554,54.38,1,99.53
+2024-01-02,Keyboard Mini,South,C00673,84.98,2,158.12
+2024-01-10,Portable Battery 20k,North,C00261,75.18,2,137.23
+2024-01-03,Keyboard Mini,West,C00436,89.3,1,161.82
+2024-01-13,Noise-Canceling Headphones,South,C00558,23.33,1,29.37
+2024-03-03,Portable Battery 20k,East,C00069,58.8,1,104.77
+2024-03-27,Noise-Canceling Headphones,West,C00144,66.58,1,119.82
+2024-01-13,USB-C Hub,East,C00471,47.5,2,72.1
+2024-02-28,Smart Bulb Kit,South,C00639,126.68,2,151.75
+2024-01-01,Bluetooth Speaker,West,C00467,55.21,1,105.85
+2024-01-29,Fitness Tracker,North,C00619,86.12,2,179.19
+2024-02-02,USB-C Hub,West,C00596,149.46,2,240.52
+2024-01-28,USB-C Hub,South,C00640,169.72,4,215.65
+2024-02-15,Portable Battery 20k,North,C00456,88.57,1,158.26
+2024-03-12,Portable Battery 20k,North,C00047,106.24,2,131.94
+2024-03-03,Portable Battery 20k,North,C00800,98.56,4,115.61
+2024-01-05,Keyboard Mini,South,C00314,61.54,2,120.93
+2024-03-14,Bluetooth Speaker,East,C00619,73.51,1,138.41
+2024-04-17,Fitness Tracker,West,C00717,38.03,1,56.27
+2024-04-16,Bluetooth Speaker,North,C00454,15.14,1,26.01
+2024-01-08,Noise-Canceling Headphones,West,C00438,64.5,2,116.3
+2024-03-23,Bluetooth Speaker,South,C00105,76.1,1,106.3
+2024-04-01,Fitness Tracker,South,C00098,345.56,4,587
+2024-04-07,Desk Lamp,West,C00129,74.59,1,92.66
+2024-03-21,Bluetooth Speaker,South,C00450,247.47,3,339.48
+2024-04-12,Bluetooth Speaker,East,C00442,50.52,1,62.65
+2024-04-21,Portable Battery 20k,West,C00309,12.71,1,26.45
+2024-03-31,Noise-Canceling Headphones,North,C00107,164.76,2,265.14
+2024-04-26,Smart Bulb Kit,East,C00586,18.62,1,32.53
+2024-02-11,Bluetooth Speaker,North,C00512,60.74,1,74.96
+2024-02-04,Smart Bulb Kit,West,C00408,36.77,1,44.75
+2024-04-08,Desk Lamp,West,C00692,128.52,2,208.14
+2024-02-17,Fitness Tracker,West,C00046,155.78,2,315.01
+2024-04-27,Smart Bulb Kit,West,C00398,68.93,1,128.42
+2024-04-13,Noise-Canceling Headphones,East,C00211,138.52,4,235.61
+2024-01-04,USB-C Hub,North,C00013,49.83,1,59.33
+2024-04-25,Smart Bulb Kit,West,C00615,155.12,2,248.76
+2024-01-14,Portable Battery 20k,North,C00615,75.98,1,151.31
+2024-02-16,Portable Battery 20k,South,C00213,188.82,3,306.47
+2024-01-18,Bluetooth Speaker,East,C00159,45.97,1,83.5
+2024-04-19,USB-C Hub,South,C00422,89.85,1,171.42
+2024-01-16,Bluetooth Speaker,South,C00090,78.24,2,131.47
+2024-03-02,Bluetooth Speaker,South,C00207,72.55,1,118.81
+2024-02-27,Bluetooth Speaker,East,C00036,124.42,2,236.71
+2024-04-15,Bluetooth Speaker,East,C00483,161.52,3,270.41
+2024-01-18,Portable Battery 20k,South,C00799,103.66,2,209.55
+2024-01-03,Bluetooth Speaker,East,C00243,105.48,2,189.88
+2024-02-16,Bluetooth Speaker,West,C00632,124.86,2,241.7
+2024-02-05,Desk Lamp,West,C00746,155.24,4,297.83
+2024-02-27,Desk Lamp,East,C00300,62.62,1,127.33
+2024-04-05,Bluetooth Speaker,South,C00288,19.03,1,25.97
+2024-01-22,Smart Bulb Kit,East,C00523,68.68,1,96.32
+2024-02-27,Portable Battery 20k,South,C00416,206.97,3,405.71
+2024-02-07,Bluetooth Speaker,West,C00411,34.82,2,48.82
+2024-01-25,Smart Bulb Kit,North,C00686,50.7,3,64.07
+2024-01-10,Portable Battery 20k,South,C00271,45.91,1,82.42
+2024-04-13,Smart Bulb Kit,East,C00514,63.56,1,118.13
+2024-04-25,Bluetooth Speaker,West,C00084,17.99,1,31.32
+2024-04-01,Keyboard Mini,East,C00257,18.95,1,34.96
+2024-04-13,Desk Lamp,South,C00092,83.42,1,128.79
+2024-01-06,Bluetooth Speaker,East,C00258,34.74,1,56.03
+2024-01-06,Portable Battery 20k,East,C00345,67.32,2,107.84
+2024-03-06,Fitness Tracker,North,C00095,92.01,3,166.64
+2024-02-08,Noise-Canceling Headphones,South,C00579,36.38,2,57.5
+2024-03-01,USB-C Hub,West,C00089,69.5,1,81.51
+2024-04-22,Keyboard Mini,South,C00652,117.7,2,179.67
+2024-01-30,Portable Battery 20k,South,C00005,83.74,1,136.14
+2024-02-11,Smart Bulb Kit,East,C00786,18.5,1,32.27
+2024-02-21,USB-C Hub,West,C00212,23.17,1,46.6
+2024-01-22,USB-C Hub,North,C00017,165.1,2,219.17
+2024-03-13,Noise-Canceling Headphones,South,C00056,13.82,1,18.03
+2024-02-09,Portable Battery 20k,South,C00364,23.91,1,47.7
+2024-02-29,Desk Lamp,South,C00370,33.16,2,47.18
+2024-04-11,USB-C Hub,North,C00687,39.32,1,66.99
+2024-04-20,Smart Bulb Kit,West,C00538,50.34,1,68.84
+2024-01-13,Keyboard Mini,West,C00385,248.28,3,359.53
+2024-02-04,Portable Battery 20k,North,C00668,159.64,2,307.02
+2024-01-07,Bluetooth Speaker,North,C00550,222.15,3,332.76
+2024-03-04,Fitness Tracker,East,C00235,69.66,1,99.89
+2024-03-31,Bluetooth Speaker,East,C00474,77.22,2,111.73
+2024-02-24,Fitness Tracker,East,C00436,158.92,4,289.05
+2024-02-03,USB-C Hub,North,C00712,52.95,3,99.55
+2024-02-20,Fitness Tracker,South,C00510,33.36,2,50.72
+2024-01-31,Smart Bulb Kit,West,C00608,209.88,4,342.26
+2024-01-10,Noise-Canceling Headphones,South,C00422,36.76,1,60.51
+2024-02-13,Desk Lamp,West,C00288,92.73,3,119.67
+2024-02-26,Keyboard Mini,South,C00144,43.66,1,52.19
+2024-03-31,Desk Lamp,South,C00550,29.07,1,38.54
+2024-02-13,Portable Battery 20k,West,C00502,20.57,1,42.79
+2024-02-17,Desk Lamp,South,C00533,38.22,1,45.27
+2024-03-02,Portable Battery 20k,East,C00545,70.15,1,85.86
+2024-01-31,Portable Battery 20k,East,C00233,49.8,2,94.77
+2024-02-15,Portable Battery 20k,West,C00346,103.47,3,175.82
+2024-02-25,Keyboard Mini,West,C00543,56.23,1,69.53
+2024-03-20,Desk Lamp,South,C00622,74.95,1,96.58
+2024-01-27,Keyboard Mini,North,C00069,71.9,1,138.16
+2024-01-19,USB-C Hub,North,C00756,53.54,1,66.76
+2024-04-29,Bluetooth Speaker,South,C00213,41.6,1,50.76
+2024-03-07,Bluetooth Speaker,North,C00204,58,1,118.6
+2024-01-25,Portable Battery 20k,South,C00215,212.34,3,306.44
+2024-02-18,Bluetooth Speaker,North,C00114,37.86,1,64.04
+2024-04-24,Desk Lamp,East,C00455,25.74,2,41.38
+2024-04-18,Fitness Tracker,South,C00564,196.44,3,372.67
+2024-03-16,Portable Battery 20k,West,C00366,86.48,2,102.09
+2024-03-11,Noise-Canceling Headphones,West,C00709,31,2,51.57
+2024-01-04,Bluetooth Speaker,North,C00244,71.42,2,111.6
+2024-02-20,Noise-Canceling Headphones,West,C00124,69.38,2,101.42
+2024-03-06,Noise-Canceling Headphones,South,C00550,72.08,1,108.67
+2024-01-11,Fitness Tracker,East,C00492,120.84,2,142.55
+2024-04-17,Portable Battery 20k,East,C00725,174.72,2,351.24
+2024-03-24,Portable Battery 20k,West,C00201,23.46,1,40.79
+2024-03-02,Fitness Tracker,North,C00036,46.21,1,94.68
+2024-01-25,USB-C Hub,West,C00055,108.58,2,153.59
+2024-04-07,Fitness Tracker,North,C00775,75.18,1,145.23
+2024-02-01,Portable Battery 20k,West,C00526,170.94,3,244
+2024-03-29,Noise-Canceling Headphones,South,C00501,75.26,2,111.29
+2024-01-17,USB-C Hub,South,C00352,138.5,5,165.29
+2024-02-24,Portable Battery 20k,West,C00079,218.96,4,432.23
+2024-03-28,Noise-Canceling Headphones,North,C00407,31.78,2,61.63
+2024-01-05,Bluetooth Speaker,East,C00271,171.5,2,232.82
+2024-01-24,Desk Lamp,South,C00287,24.9,2,41.8
+2024-01-02,USB-C Hub,South,C00100,312.16,4,590.87
+2024-02-18,Portable Battery 20k,West,C00105,13.72,1,16.58
+2024-02-22,Desk Lamp,East,C00316,42.18,2,76.88
+2024-02-03,Bluetooth Speaker,West,C00400,81.88,1,118.77
+2024-03-25,Portable Battery 20k,East,C00334,116.79,3,174.38
+2024-04-23,Portable Battery 20k,East,C00299,218.28,4,262.03
+2024-04-01,Smart Bulb Kit,North,C00167,57.33,3,115.37
+2024-01-10,Smart Bulb Kit,South,C00299,93.94,2,174.11
+2024-02-28,USB-C Hub,East,C00469,133.48,4,274.66
+2024-03-12,Portable Battery 20k,South,C00003,72.43,1,135.38
+2024-02-26,Portable Battery 20k,West,C00039,26.56,2,48.93
+2024-02-09,Smart Bulb Kit,East,C00558,130.24,2,234.27
+2024-04-20,Fitness Tracker,North,C00428,68.34,1,127.47
+2024-03-29,Noise-Canceling Headphones,East,C00055,39.14,1,54
+2024-04-17,USB-C Hub,South,C00055,241.89,3,456.87
+2024-03-11,Noise-Canceling Headphones,North,C00143,86.4,1,125.38
+2024-02-20,USB-C Hub,West,C00130,67.11,1,83.88
+2024-04-02,USB-C Hub,South,C00422,49.6,1,60.2
+2024-03-13,Bluetooth Speaker,North,C00109,85.04,1,158.58
+2024-03-06,Noise-Canceling Headphones,East,C00742,75.85,1,126.37
+2024-04-11,USB-C Hub,East,C00469,222.36,3,403.55
+2024-01-20,Desk Lamp,South,C00432,67.49,1,125.67
+2024-02-03,Portable Battery 20k,West,C00562,149.22,2,248.29
+2024-01-04,Desk Lamp,South,C00664,72.3,1,133.38
+2024-02-19,Portable Battery 20k,South,C00069,46.69,1,87.27
+2024-04-06,Noise-Canceling Headphones,East,C00512,106.08,2,163.71
+2024-01-31,Portable Battery 20k,South,C00310,75.9,1,128.53
+2024-02-22,Portable Battery 20k,South,C00616,146.01,3,243.24
+2024-03-22,Desk Lamp,South,C00640,135.48,2,281.95
+2024-02-13,Portable Battery 20k,North,C00062,154.5,2,207.76
+2024-01-20,USB-C Hub,North,C00449,314.84,4,511.78
+2024-04-15,Noise-Canceling Headphones,West,C00270,28.9,2,42.17
+2024-03-08,Bluetooth Speaker,North,C00376,22.11,1,30.4
+2024-04-22,USB-C Hub,West,C00755,90.34,2,176.25
+2024-04-10,Portable Battery 20k,South,C00282,49.07,1,81.72
+2024-01-10,Portable Battery 20k,North,C00273,38.76,1,71.37
+2024-04-18,Portable Battery 20k,South,C00514,120.76,4,151.35
+2024-03-05,Bluetooth Speaker,East,C00369,54.76,4,110.87
+2024-02-23,Portable Battery 20k,West,C00584,77.1,1,140.01
+2024-02-03,Bluetooth Speaker,West,C00388,78.6,2,124.28
+2024-03-28,Fitness Tracker,East,C00287,25.34,1,32.42
+2024-03-18,USB-C Hub,South,C00606,66.64,1,120.04
+2024-03-26,Fitness Tracker,North,C00324,75.6,1,113.24
+2024-04-03,Portable Battery 20k,South,C00002,71.54,2,150.1
+2024-04-18,Bluetooth Speaker,North,C00417,38.28,1,77.24
+2024-01-23,Desk Lamp,South,C00477,178.26,2,275.47
+2024-04-07,Fitness Tracker,East,C00582,33.75,1,50.88
+2024-03-19,Fitness Tracker,South,C00028,130.62,3,225.15
+2024-02-05,Fitness Tracker,West,C00091,155.28,2,313.81
+2024-04-27,Noise-Canceling Headphones,East,C00500,31.1,1,50.32
+2024-03-04,Desk Lamp,North,C00774,67.12,1,96.01
+2024-03-07,Keyboard Mini,West,C00117,64.5,1,95.27
+2024-03-26,Fitness Tracker,North,C00733,42.89,1,51.33
+2024-03-09,Noise-Canceling Headphones,North,C00237,50.2,4,102.51
+2024-01-26,Desk Lamp,South,C00314,82.17,1,161.53
+2024-01-21,Portable Battery 20k,South,C00209,130.26,2,185.18
+2024-03-25,Noise-Canceling Headphones,West,C00702,39.4,2,57.56
+2024-02-03,Bluetooth Speaker,West,C00078,17.17,1,34.73
+2024-01-14,Portable Battery 20k,South,C00270,151.08,3,204.33
+2024-01-31,Fitness Tracker,West,C00472,58.04,2,68.84
+2024-01-21,Fitness Tracker,South,C00674,49.36,1,68.35
+2024-02-01,Portable Battery 20k,North,C00206,71.13,1,112.62
+2024-02-21,Smart Bulb Kit,East,C00554,30.98,1,55.23
+2024-01-16,Portable Battery 20k,East,C00298,73.46,1,125.39
+2024-04-17,Bluetooth Speaker,East,C00574,58.82,1,89.61
+2024-02-11,Bluetooth Speaker,South,C00163,252.81,3,515.87
+2024-04-20,Portable Battery 20k,East,C00316,74.84,4,92.81
+2024-01-11,Bluetooth Speaker,South,C00570,49.53,1,72.52
+2024-01-25,Noise-Canceling Headphones,West,C00789,88.18,1,164.02
+2024-03-10,Fitness Tracker,West,C00622,145.4,2,171.61
+2024-04-03,Portable Battery 20k,West,C00457,33.83,1,64.65
+2024-02-01,USB-C Hub,West,C00644,72,1,98.41
+2024-03-05,Keyboard Mini,South,C00403,32.01,1,49.51
+2024-04-15,Desk Lamp,South,C00741,170.72,2,240.9
+2024-04-29,USB-C Hub,East,C00370,56.17,1,72.63
+2024-02-05,Bluetooth Speaker,West,C00520,78.59,1,148.96
+2024-04-09,Portable Battery 20k,North,C00319,23.25,1,28.52
+2024-03-31,Bluetooth Speaker,West,C00643,102.36,3,164.65
+2024-04-01,Smart Bulb Kit,West,C00578,139.75,5,169.62
+2024-02-19,USB-C Hub,South,C00444,18.49,1,38.5
+2024-03-21,USB-C Hub,North,C00626,43.54,2,69.62
+2024-04-13,Smart Bulb Kit,South,C00098,92.1,2,121.23
+2024-01-02,Fitness Tracker,East,C00163,339.56,4,605.01
+2024-03-05,Desk Lamp,East,C00659,16.7,1,33.86
+2024-02-08,Portable Battery 20k,West,C00651,20.99,1,40.38
+2024-03-12,Portable Battery 20k,East,C00578,138.42,2,288.55
+2024-01-28,Noise-Canceling Headphones,South,C00153,15.84,1,30.45
+2024-04-03,Smart Bulb Kit,East,C00244,167.64,3,230.06
+2024-04-10,Desk Lamp,South,C00462,137.92,2,281.9
+2024-03-27,Keyboard Mini,West,C00607,119.07,3,231.56
+2024-02-27,Smart Bulb Kit,North,C00217,64.14,3,92.8
+2024-03-14,Bluetooth Speaker,West,C00618,29.21,1,47.28
+2024-04-03,Keyboard Mini,South,C00007,252.18,3,389.15
+2024-04-10,USB-C Hub,West,C00715,89.03,1,177.48
+2024-01-06,Portable Battery 20k,East,C00447,35,1,60.6
+2024-04-20,Noise-Canceling Headphones,South,C00799,172.17,3,328.74
+2024-03-28,Keyboard Mini,West,C00757,68.25,3,123.98
+2024-04-19,Keyboard Mini,East,C00086,64.92,1,83.14
+2024-03-28,Desk Lamp,North,C00183,13.33,1,19.24
+2024-02-07,Portable Battery 20k,East,C00570,55.06,1,84.38
+2024-03-17,Bluetooth Speaker,East,C00185,121.96,2,161.06
+2024-02-01,Desk Lamp,South,C00721,12.55,1,23.56
+2024-03-26,Bluetooth Speaker,West,C00577,70.12,1,127.71
+2024-03-02,Noise-Canceling Headphones,West,C00644,206.73,3,385.18
+2024-04-19,Fitness Tracker,North,C00526,26.82,1,32.03
+2024-02-10,Noise-Canceling Headphones,South,C00024,173,2,290.26
+2024-04-11,Bluetooth Speaker,North,C00413,155.97,3,252.56
+2024-03-17,Portable Battery 20k,North,C00435,79.26,1,93.73
+2024-03-09,Desk Lamp,North,C00377,63.6,2,76.61
+2024-03-26,Fitness Tracker,North,C00116,216.66,3,261.88
+2024-03-30,Desk Lamp,East,C00339,227.68,4,375.14
+2024-02-07,Smart Bulb Kit,South,C00151,191.22,3,348.34
+2024-01-26,Smart Bulb Kit,South,C00174,29.63,1,39.78
+2024-04-23,Portable Battery 20k,South,C00313,42.86,1,85.33
+2024-03-02,Smart Bulb Kit,South,C00511,49.9,2,97.51
+2024-02-02,USB-C Hub,North,C00413,180.9,3,224.38
+2024-04-29,Noise-Canceling Headphones,South,C00483,60.73,1,95.56
+2024-02-15,Portable Battery 20k,West,C00207,16.49,1,22.47
+2024-03-11,Noise-Canceling Headphones,South,C00601,46.84,1,95.37
+2024-01-20,Portable Battery 20k,South,C00423,36.73,1,57.88
+2024-04-27,Smart Bulb Kit,East,C00405,43.47,1,80.64
+2024-03-23,Keyboard Mini,North,C00744,81.73,1,96.73
+2024-03-18,Bluetooth Speaker,North,C00645,63.86,2,94.94
+2024-02-16,Portable Battery 20k,East,C00313,141.36,2,167.48
+2024-03-13,USB-C Hub,South,C00604,197.46,3,342.57
+2024-03-11,Keyboard Mini,East,C00401,260.65,5,377.1
+2024-03-04,Portable Battery 20k,South,C00381,79.26,1,161.49
+2024-04-06,Portable Battery 20k,West,C00568,42.94,1,69.31
+2024-03-08,Smart Bulb Kit,South,C00049,110.66,2,202.21
+2024-02-29,Smart Bulb Kit,North,C00425,70.18,1,85
+2024-04-05,Portable Battery 20k,North,C00400,57.14,2,69.61
+2024-04-05,Noise-Canceling Headphones,West,C00540,94.78,2,198.19
+2024-01-24,Smart Bulb Kit,North,C00085,172.98,2,318.38
+2024-04-10,Bluetooth Speaker,South,C00356,119.22,3,245.04
+2024-02-26,Smart Bulb Kit,South,C00665,35.26,1,48.92
+2024-02-28,Portable Battery 20k,West,C00088,13.55,1,21.43
+2024-02-06,Desk Lamp,East,C00387,47.33,1,86.44
+2024-02-21,Noise-Canceling Headphones,North,C00063,85.28,2,136.33
+2024-03-23,USB-C Hub,North,C00751,17.29,1,34.83
+2024-04-12,USB-C Hub,North,C00346,263.19,3,448.58
+2024-01-22,Desk Lamp,South,C00397,161.46,3,261.34
+2024-04-20,USB-C Hub,South,C00098,118.72,4,229.88
+2024-01-19,Bluetooth Speaker,South,C00775,87.22,1,129.66
+2024-02-04,USB-C Hub,East,C00594,36.2,1,42.71
+2024-03-11,Bluetooth Speaker,West,C00575,273.4,4,424.72
+2024-03-03,Keyboard Mini,South,C00709,147.8,2,194.77
+2024-03-18,Noise-Canceling Headphones,North,C00008,67.3,1,89.94
+2024-04-16,Keyboard Mini,North,C00662,210.81,3,307.54
+2024-02-20,Portable Battery 20k,West,C00693,146.92,2,245.7
+2024-03-30,Smart Bulb Kit,South,C00562,182.43,3,262.48
+2024-02-14,Portable Battery 20k,West,C00124,136.04,2,250.43
+2024-02-29,Fitness Tracker,East,C00547,14.13,1,19.53
+2024-01-05,Portable Battery 20k,South,C00718,80.97,1,123.88
+2024-03-04,Noise-Canceling Headphones,South,C00118,86.01,3,158.77
+2024-03-22,Noise-Canceling Headphones,North,C00530,211.89,3,432.79
+2024-01-29,Keyboard Mini,North,C00623,91.12,2,172.81
+2024-04-13,Smart Bulb Kit,East,C00497,58.48,1,69.75
+2024-01-03,Fitness Tracker,West,C00547,29.63,1,44.24
+2024-03-23,Fitness Tracker,West,C00767,166.12,2,336.42
+2024-03-30,Keyboard Mini,North,C00069,54.74,1,90.78
+2024-03-29,Bluetooth Speaker,South,C00312,149.78,2,263.82
+2024-04-01,Desk Lamp,North,C00760,29.14,2,41.87
+2024-03-24,Keyboard Mini,North,C00125,269.52,4,387.59
+2024-04-16,Fitness Tracker,East,C00011,52.55,1,97.93
+2024-04-05,Noise-Canceling Headphones,West,C00498,66.46,1,125.6
+2024-01-23,Noise-Canceling Headphones,South,C00276,65.45,1,117.39
+2024-01-04,Keyboard Mini,East,C00447,81.74,1,141.32
+2024-02-22,Smart Bulb Kit,East,C00148,74.99,1,126.96
+2024-03-06,Portable Battery 20k,South,C00569,198.6,4,243.89
+2024-03-18,Portable Battery 20k,West,C00214,63.56,2,77.9
+2024-01-26,Noise-Canceling Headphones,North,C00352,54.3,3,68.89
+2024-03-15,USB-C Hub,East,C00011,23.3,1,43.66
+2024-04-19,Keyboard Mini,North,C00443,133,2,240.28
+2024-02-17,Keyboard Mini,West,C00170,133.41,3,158.02
+2024-02-12,USB-C Hub,North,C00368,178.64,4,264.57
+2024-03-23,Smart Bulb Kit,South,C00449,154.65,3,298.92
+2024-04-11,Desk Lamp,West,C00599,234.54,3,292.52
+2024-04-23,Portable Battery 20k,South,C00496,69.15,3,109.63
+2024-02-13,Portable Battery 20k,West,C00124,263.34,3,501.82
+2024-02-15,Desk Lamp,North,C00458,157.16,2,291.27
+2024-03-25,Fitness Tracker,South,C00068,55.19,1,73.82
+2024-04-10,Portable Battery 20k,South,C00794,60.89,1,79.5
+2024-03-04,Bluetooth Speaker,South,C00125,204.84,3,254.36
+2024-01-05,Noise-Canceling Headphones,South,C00364,110.82,3,221.66
+2024-03-02,Portable Battery 20k,West,C00448,179.28,3,297.01
+2024-02-16,Smart Bulb Kit,North,C00287,150.51,3,270.06
+2024-04-07,Portable Battery 20k,West,C00512,231.27,3,285.9
+2024-04-23,Portable Battery 20k,West,C00292,51.34,2,61.43
+2024-04-23,Bluetooth Speaker,East,C00143,90.14,2,121.1
+2024-02-12,Portable Battery 20k,East,C00047,42.88,2,73.62
+2024-02-28,Smart Bulb Kit,West,C00772,79.55,1,133.16
+2024-02-13,Smart Bulb Kit,West,C00362,104.04,2,175.41
+2024-03-03,Fitness Tracker,North,C00132,25.45,1,47.01
+2024-04-11,Keyboard Mini,North,C00356,147.04,2,260.88
+2024-04-14,Noise-Canceling Headphones,North,C00612,89.73,1,123.52
+2024-03-31,Bluetooth Speaker,South,C00041,53.12,1,110.85
+2024-01-14,Bluetooth Speaker,East,C00416,66.07,1,136.74
+2024-01-13,Desk Lamp,South,C00775,110.74,2,217.8
+2024-02-13,Desk Lamp,West,C00393,77.77,1,146.07
+2024-01-21,Bluetooth Speaker,West,C00465,71.56,2,119.66
+2024-03-29,Bluetooth Speaker,South,C00078,85.69,1,125.2
+2024-01-26,Bluetooth Speaker,East,C00464,41.43,1,60.64
+2024-03-08,Portable Battery 20k,East,C00620,16.95,1,20.42
+2024-02-11,Noise-Canceling Headphones,South,C00701,39.69,1,83.08
+2024-01-20,Noise-Canceling Headphones,South,C00498,47.14,1,55.95
+2024-02-19,USB-C Hub,North,C00102,44.82,2,82.44
+2024-04-08,Desk Lamp,West,C00099,66.62,1,119.78
+2024-04-28,Desk Lamp,East,C00054,176.94,3,215.36
+2024-03-16,Portable Battery 20k,East,C00515,94.18,2,162.81
+2024-01-11,Desk Lamp,North,C00042,156.48,2,317.68
+2024-01-02,Desk Lamp,West,C00528,45.63,1,92.43
+2024-03-05,Noise-Canceling Headphones,East,C00629,41.04,1,77.5
+2024-01-24,Portable Battery 20k,West,C00494,49.99,1,66.24
+2024-01-16,Desk Lamp,South,C00446,41.62,1,54.35
+2024-02-04,Portable Battery 20k,West,C00689,251.4,3,382.5
+2024-01-10,USB-C Hub,South,C00464,80.96,1,136.22
+2024-03-08,Noise-Canceling Headphones,North,C00352,198.42,3,374.82
+2024-01-14,Bluetooth Speaker,South,C00660,51.43,1,96.41
+2024-03-18,Fitness Tracker,South,C00136,26.09,1,32.17
+2024-01-14,Desk Lamp,East,C00511,89.37,1,182.43
+2024-04-20,Noise-Canceling Headphones,South,C00239,43.32,1,67.78
+2024-03-15,Smart Bulb Kit,East,C00723,232.77,3,464.98
+2024-02-25,Smart Bulb Kit,West,C00770,38.68,2,46.78
+2024-04-11,USB-C Hub,East,C00471,173,2,235.79
+2024-04-11,Portable Battery 20k,South,C00399,119.54,2,235.12
+2024-04-25,Bluetooth Speaker,South,C00095,59.62,1,115.22
+2024-03-21,Bluetooth Speaker,North,C00086,84.87,1,122.69
+2024-02-10,Smart Bulb Kit,West,C00185,141.68,2,277.15
+2024-04-26,Portable Battery 20k,North,C00759,125.82,3,151.17
+2024-02-19,Bluetooth Speaker,West,C00109,27.5,1,40.12
+2024-04-27,USB-C Hub,North,C00673,118.38,3,184.51
+2024-04-02,Portable Battery 20k,South,C00151,159.7,2,325.07
+2024-04-07,Fitness Tracker,East,C00085,88.18,2,178.14
+2024-02-26,Portable Battery 20k,East,C00176,67.94,1,78.57
+2024-03-12,Bluetooth Speaker,South,C00354,81.42,1,131.51
+2024-01-21,Desk Lamp,South,C00186,54.02,1,76.42
+2024-02-09,Noise-Canceling Headphones,West,C00367,64.68,2,99.57
+2024-03-19,Portable Battery 20k,South,C00286,267.09,3,534.22
+2024-03-26,USB-C Hub,West,C00241,63.85,1,74.89
+2024-04-12,Keyboard Mini,North,C00617,51.29,1,97.79
+2024-01-18,Bluetooth Speaker,East,C00430,160.58,2,189.15
+2024-04-11,Bluetooth Speaker,East,C00620,54.6,2,79.24
+2024-01-13,Keyboard Mini,East,C00526,73.7,2,111.89
+2024-04-06,USB-C Hub,East,C00416,32.18,2,41.34
+2024-04-07,Bluetooth Speaker,East,C00159,18.57,1,35.46
+2024-02-25,USB-C Hub,South,C00562,38.47,1,71.63
+2024-03-24,Smart Bulb Kit,West,C00331,100.72,2,171.27
+2024-02-18,USB-C Hub,South,C00190,143.84,4,194.31
+2024-01-20,Noise-Canceling Headphones,North,C00069,254.76,4,530.47
+2024-03-28,Portable Battery 20k,East,C00630,45.55,1,70.08
+2024-02-05,Fitness Tracker,West,C00196,56.28,1,110.05
+2024-01-04,USB-C Hub,East,C00288,32.7,1,63.83
+2024-01-04,Desk Lamp,North,C00621,53.19,1,108.38
+2024-03-12,Smart Bulb Kit,South,C00354,87.88,1,149.37
+2024-02-12,Bluetooth Speaker,East,C00742,111.52,4,142
+2024-02-01,Keyboard Mini,East,C00431,245.55,3,482.93
+2024-04-19,Bluetooth Speaker,South,C00664,145.22,2,220.16
+2024-01-17,Bluetooth Speaker,South,C00325,44,1,72.01
+2024-03-14,Noise-Canceling Headphones,West,C00200,153.24,3,223.69
+2024-04-22,Bluetooth Speaker,North,C00268,75.72,2,130.71
+2024-03-20,Portable Battery 20k,West,C00431,53.8,2,106.81
+2024-03-02,Bluetooth Speaker,West,C00511,84.48,3,149.77
+2024-03-04,Noise-Canceling Headphones,West,C00383,83.85,3,158.19
+2024-02-06,Fitness Tracker,East,C00345,50.2,1,73.21
+2024-04-17,USB-C Hub,East,C00034,73.64,1,112.9
+2024-03-16,Fitness Tracker,South,C00321,165.54,2,329.13
+2024-02-25,Bluetooth Speaker,North,C00099,253.95,3,417.13
+2024-01-20,Bluetooth Speaker,East,C00715,62.65,1,108.75
+2024-02-24,USB-C Hub,East,C00566,106.38,2,157.52
+2024-03-01,Noise-Canceling Headphones,East,C00339,34.08,1,41.08
+2024-03-22,Desk Lamp,West,C00432,144.04,2,274.89
+2024-02-02,Desk Lamp,East,C00749,30.16,2,36.09
+2024-02-09,Smart Bulb Kit,South,C00015,309.8,4,620.76
+2024-03-01,Portable Battery 20k,East,C00033,234.84,3,379.02
+2024-02-20,Bluetooth Speaker,East,C00304,65.55,1,117.18
+2024-03-02,Keyboard Mini,North,C00503,38.66,2,71.14
+2024-04-28,USB-C Hub,West,C00154,64.36,1,126.69
+2024-04-19,Portable Battery 20k,West,C00615,200.37,3,341.94
+2024-03-05,USB-C Hub,East,C00602,64.68,1,103.06
+2024-03-17,Bluetooth Speaker,South,C00260,43.35,3,89.32
+2024-04-13,Desk Lamp,North,C00318,43.07,1,55.31
+2024-04-19,Bluetooth Speaker,West,C00292,141.56,2,220.43
+2024-02-27,Desk Lamp,West,C00660,89.99,1,184.7
+2024-04-01,Fitness Tracker,East,C00407,128.3,2,195.79
+2024-03-11,Smart Bulb Kit,East,C00284,48.9,3,90.92
+2024-01-28,Portable Battery 20k,South,C00535,113.82,3,135.04
+2024-03-23,USB-C Hub,North,C00177,27.62,1,32.94
+2024-01-24,Smart Bulb Kit,West,C00776,35.68,1,72.04
+2024-04-23,Bluetooth Speaker,East,C00408,139.42,2,185.14
+2024-01-26,Noise-Canceling Headphones,East,C00362,70.37,1,137.66
+2024-03-09,Bluetooth Speaker,East,C00522,67.93,1,92.71
+2024-03-02,Smart Bulb Kit,North,C00541,112.7,2,136.27
+2024-02-05,Noise-Canceling Headphones,South,C00117,39.82,1,62.22
+2024-03-03,USB-C Hub,South,C00431,150.68,2,316.18
+2024-04-20,Smart Bulb Kit,South,C00518,16.42,1,21.01
+2024-02-20,Smart Bulb Kit,West,C00206,151.26,3,305.73
+2024-02-20,Portable Battery 20k,South,C00699,69.56,2,93.48
+2024-02-26,Noise-Canceling Headphones,South,C00554,51.31,1,81.45
+2024-01-21,Smart Bulb Kit,North,C00496,106.28,2,157.94
+2024-04-18,Bluetooth Speaker,North,C00680,26.73,1,40.5
+2024-02-10,Keyboard Mini,West,C00388,154.98,2,299.8
+2024-04-19,Noise-Canceling Headphones,North,C00290,132.24,4,189.63
+2024-03-31,Portable Battery 20k,South,C00153,233.04,3,401.13
+2024-02-25,USB-C Hub,North,C00058,60.17,1,96.82
+2024-02-17,Bluetooth Speaker,South,C00660,66.07,1,116.83
+2024-01-17,Smart Bulb Kit,South,C00287,262,4,409.7
+2024-03-05,Desk Lamp,West,C00480,31.28,1,47.87
+2024-03-29,Portable Battery 20k,West,C00192,97.35,3,191.51
+2024-03-23,Portable Battery 20k,East,C00362,80.79,1,163.87
+2024-01-25,Noise-Canceling Headphones,West,C00045,134.14,2,280.94
+2024-02-12,Smart Bulb Kit,North,C00650,74.94,1,139.94
+2024-01-25,Desk Lamp,North,C00768,63.76,1,88.92
+2024-04-22,Keyboard Mini,North,C00500,66.05,1,94.71
+2024-02-19,Fitness Tracker,North,C00276,54.12,1,112.69
+2024-02-04,Fitness Tracker,West,C00765,89.54,1,112.65
+2024-04-25,Desk Lamp,South,C00523,50.56,1,88.39
+2024-01-05,Keyboard Mini,South,C00524,21.51,1,25.99
+2024-03-11,Portable Battery 20k,West,C00775,117.18,2,157.21
+2024-03-15,Desk Lamp,East,C00261,151.74,2,298.74
+2024-03-30,Desk Lamp,North,C00716,116.42,2,189.47
+2024-04-13,Portable Battery 20k,West,C00265,22.99,1,39.99
+2024-02-25,Portable Battery 20k,West,C00175,283,4,405.19
+2024-02-18,Keyboard Mini,North,C00700,36.08,2,51.88
+2024-02-11,Fitness Tracker,West,C00100,141.04,4,282.74
+2024-01-17,Bluetooth Speaker,South,C00477,91.94,2,105.84
+2024-03-24,Bluetooth Speaker,South,C00239,26.11,1,39.04
+2024-02-25,Bluetooth Speaker,South,C00014,86.18,1,158.79
+2024-02-07,Portable Battery 20k,East,C00350,114.3,2,182.15
+2024-03-01,Portable Battery 20k,North,C00477,37.59,3,65.24
+2024-02-15,Portable Battery 20k,East,C00512,179.88,3,375.71
+2024-02-25,Fitness Tracker,East,C00639,76.46,2,120.08
+2024-02-25,Smart Bulb Kit,South,C00592,142.46,2,173.84
+2024-01-19,Portable Battery 20k,West,C00764,95,2,132.47
+2024-02-11,Smart Bulb Kit,South,C00074,47.13,1,78.5
+2024-01-28,Portable Battery 20k,East,C00020,144.6,2,189.75
+2024-04-25,USB-C Hub,North,C00477,117.16,2,182.08
+2024-04-23,Keyboard Mini,North,C00191,35.28,1,46.94
+2024-01-09,Portable Battery 20k,West,C00712,48.38,1,68.27
+2024-04-25,Portable Battery 20k,East,C00637,34.76,2,60.9
+2024-02-01,Keyboard Mini,South,C00724,119.5,2,168.94
+2024-01-04,Bluetooth Speaker,West,C00419,164.32,4,202.59
+2024-03-18,Smart Bulb Kit,North,C00187,80.74,2,113.62
+2024-04-16,USB-C Hub,South,C00505,120.66,3,242.43
+2024-03-30,Bluetooth Speaker,South,C00536,19.44,1,32.07
+2024-02-04,Portable Battery 20k,West,C00709,215.79,3,360.09
+2024-04-18,Portable Battery 20k,East,C00503,16.67,1,28.88
+2024-01-19,Smart Bulb Kit,South,C00423,57.53,1,106.5
+2024-02-01,USB-C Hub,North,C00746,89.58,2,174.66
+2024-02-22,Desk Lamp,South,C00312,16.39,1,23.35
+2024-04-17,Fitness Tracker,South,C00228,92.68,2,184.09
+2024-03-19,Noise-Canceling Headphones,West,C00332,130.56,2,156.16
+2024-01-19,Fitness Tracker,West,C00197,55.77,1,101.16
+2024-04-20,Portable Battery 20k,West,C00103,330.8,4,580.03
+2024-01-05,Noise-Canceling Headphones,East,C00797,67.65,1,94.81
+2024-02-26,Bluetooth Speaker,South,C00472,44.4,3,89.35
+2024-04-06,Keyboard Mini,East,C00238,214.48,4,266.19
+2024-04-04,Keyboard Mini,South,C00153,68.38,1,125.37
+2024-04-11,Bluetooth Speaker,South,C00326,153.6,2,218.2
+2024-03-11,Desk Lamp,South,C00139,71.55,1,123.2
+2024-01-24,Bluetooth Speaker,North,C00566,64.12,2,132.23
+2024-04-25,Smart Bulb Kit,East,C00170,86.22,2,116.15
+2024-03-21,Desk Lamp,East,C00773,21.67,1,33.6
+2024-02-26,Smart Bulb Kit,South,C00257,115.28,2,199.28
+2024-03-11,Portable Battery 20k,East,C00471,99.8,2,193.43
+2024-02-19,Fitness Tracker,West,C00061,123.68,2,250.94
+2024-02-03,Keyboard Mini,West,C00669,46.64,1,89.25
+2024-04-06,Bluetooth Speaker,South,C00244,280.36,4,503.11
+2024-03-22,Desk Lamp,South,C00475,55.61,1,82.38
+2024-03-06,Noise-Canceling Headphones,South,C00525,155.16,2,292.7
+2024-04-14,Noise-Canceling Headphones,North,C00528,84.87,1,146.95
+2024-02-02,USB-C Hub,South,C00194,175,2,260.35
+2024-01-04,Fitness Tracker,West,C00233,87.88,2,120.46
+2024-04-29,Keyboard Mini,South,C00028,170.64,2,324.39
+2024-02-23,Desk Lamp,West,C00026,12.18,1,15.45
+2024-03-10,USB-C Hub,West,C00109,55.51,1,78.73
+2024-02-01,Portable Battery 20k,East,C00565,203.31,3,242.31
+2024-02-12,Keyboard Mini,South,C00125,154.3,2,297.39
+2024-02-23,Desk Lamp,South,C00445,177.38,2,259.44
+2024-02-23,Desk Lamp,South,C00670,89.47,1,108.72
+2024-02-15,Noise-Canceling Headphones,West,C00630,59.56,2,119.26
+2024-01-08,Smart Bulb Kit,West,C00594,37.12,2,68.03
+2024-01-29,USB-C Hub,South,C00786,71.52,2,96.24
+2024-01-12,Portable Battery 20k,East,C00260,361.95,5,518.69
+2024-01-02,Bluetooth Speaker,North,C00593,86.17,1,114.92
+2024-02-17,Portable Battery 20k,West,C00150,31.12,1,64.99
+2024-04-27,Bluetooth Speaker,South,C00680,46.22,2,96.61
+2024-01-09,Keyboard Mini,East,C00782,77.09,1,127.31
+2024-03-25,Noise-Canceling Headphones,East,C00459,28.92,1,50.46
+2024-01-08,Portable Battery 20k,North,C00644,19.31,1,32.56
+2024-01-10,Portable Battery 20k,North,C00411,83.12,1,123.52
+2024-01-31,USB-C Hub,West,C00009,66.59,1,119.44
+2024-03-04,Portable Battery 20k,South,C00176,61.89,1,75.95
+2024-01-01,Fitness Tracker,West,C00151,24.38,1,35.2
+2024-03-13,USB-C Hub,East,C00630,196.08,3,292.7
+2024-03-20,Fitness Tracker,South,C00082,223.44,4,333.94
+2024-02-21,Noise-Canceling Headphones,East,C00643,22.01,1,40.75
+2024-03-18,Bluetooth Speaker,South,C00545,117.56,2,216.91
+2024-02-16,Portable Battery 20k,East,C00063,71.35,1,120.52
+2024-04-13,USB-C Hub,West,C00570,67.84,1,135.06
+2024-02-02,Keyboard Mini,West,C00697,40.31,1,68.75
+2024-01-03,Fitness Tracker,South,C00691,57.67,1,105.79
+2024-03-20,Smart Bulb Kit,North,C00591,86.19,1,171.77
+2024-01-16,Smart Bulb Kit,East,C00468,56.02,2,88.45
+2024-04-03,Smart Bulb Kit,South,C00768,84.26,2,126.29
+2024-04-01,USB-C Hub,East,C00650,84.9,1,153.29
+2024-03-30,Portable Battery 20k,South,C00723,131.78,2,195.84
+2024-04-02,Bluetooth Speaker,West,C00274,86.14,2,154.34
+2024-04-06,USB-C Hub,South,C00515,50.3,1,101.45
+2024-04-08,Portable Battery 20k,South,C00685,143.04,2,182.77
+2024-04-12,Portable Battery 20k,East,C00501,280.68,4,513.65
+2024-04-21,USB-C Hub,North,C00593,42.69,1,66.54
+2024-01-28,Noise-Canceling Headphones,South,C00437,74.93,1,142.85
+2024-04-28,Portable Battery 20k,North,C00451,56.72,2,68.9
+2024-01-24,Keyboard Mini,West,C00340,247.36,4,335.44
+2024-03-25,USB-C Hub,South,C00389,184.8,3,334.47
+2024-02-27,Portable Battery 20k,South,C00038,45.69,1,90.09
+2024-01-06,Portable Battery 20k,West,C00292,61.48,4,116.96
+2024-01-17,Portable Battery 20k,North,C00279,36.86,2,61.21
+2024-04-06,Portable Battery 20k,West,C00678,15.01,1,24.36
+2024-03-22,Bluetooth Speaker,East,C00647,55.14,2,76.04
+2024-04-29,Fitness Tracker,North,C00787,42.06,2,61.16
+2024-04-16,Fitness Tracker,South,C00722,48.1,2,57.8
+2024-02-11,Keyboard Mini,West,C00139,33.43,1,56.93
+2024-04-15,USB-C Hub,East,C00137,33.1,1,68.75
+2024-03-22,Bluetooth Speaker,South,C00090,81.05,1,145.94
+2024-01-17,Bluetooth Speaker,West,C00531,128.26,2,229.4
+2024-04-20,Portable Battery 20k,South,C00592,68.23,1,108.16
+2024-03-24,Keyboard Mini,East,C00677,60.91,1,124.94
+2024-04-02,Portable Battery 20k,South,C00276,113.66,2,136.39
+2024-03-19,USB-C Hub,East,C00106,88.61,1,179.17
+2024-02-07,Desk Lamp,South,C00711,145.86,3,253.77
+2024-04-02,Bluetooth Speaker,North,C00090,125.73,3,226.79
+2024-04-29,Desk Lamp,East,C00211,78.12,1,99.1
+2024-02-23,Noise-Canceling Headphones,South,C00500,84.63,1,134.53
+2024-03-08,Fitness Tracker,North,C00081,93.52,2,153.62
+2024-03-18,Noise-Canceling Headphones,West,C00584,55.27,1,95.71
+2024-02-27,Noise-Canceling Headphones,West,C00473,154.62,3,213.56
+2024-04-01,Smart Bulb Kit,East,C00766,37.32,3,49.24
+2024-01-28,Smart Bulb Kit,South,C00163,26.33,1,42.37
+2024-04-07,Fitness Tracker,South,C00407,66.92,1,94.66
+2024-04-19,Keyboard Mini,East,C00247,68.5,1,90.06
+2024-01-14,Noise-Canceling Headphones,South,C00656,158.74,2,243.37
+2024-01-02,Noise-Canceling Headphones,East,C00691,24.28,1,40.78
+2024-02-11,Portable Battery 20k,South,C00600,160.96,4,238.13
+2024-01-22,USB-C Hub,East,C00394,85.29,1,170.55
+2024-02-05,Keyboard Mini,South,C00251,26.52,1,44.27
+2024-02-12,Desk Lamp,East,C00669,158.52,3,253.68
+2024-03-22,USB-C Hub,East,C00281,153.54,2,207.26
+2024-04-10,Desk Lamp,North,C00660,55.12,2,90.3
+2024-01-13,Keyboard Mini,South,C00056,27.68,1,40.35
+2024-04-08,Noise-Canceling Headphones,South,C00043,39.56,1,51.96
+2024-02-17,Keyboard Mini,East,C00792,42.62,2,84.25
+2024-04-12,USB-C Hub,South,C00630,59.08,4,93.82
+2024-01-28,Noise-Canceling Headphones,West,C00127,147.38,2,273.22
+2024-03-18,Portable Battery 20k,North,C00404,106.8,4,207.95
+2024-02-14,Bluetooth Speaker,West,C00036,80.73,3,122.37
+2024-04-21,USB-C Hub,South,C00731,90.92,4,132.62
+2024-02-19,Fitness Tracker,West,C00010,258.33,3,478.45
+2024-02-25,Portable Battery 20k,South,C00101,316.08,4,486.27
+2024-01-24,Fitness Tracker,East,C00568,251.91,3,359.88
+2024-01-09,Smart Bulb Kit,North,C00460,49.57,1,75.8
+2024-01-06,Portable Battery 20k,West,C00282,217.47,3,264.35
+2024-03-26,Fitness Tracker,North,C00722,63.34,1,82.73
+2024-04-29,Bluetooth Speaker,East,C00655,166.12,2,226.9
+2024-04-17,Noise-Canceling Headphones,West,C00178,48.06,1,81.49
+2024-01-22,Keyboard Mini,South,C00721,77.93,1,113.61
+2024-03-13,USB-C Hub,North,C00644,291.95,5,450.97
+2024-03-29,USB-C Hub,West,C00212,161.76,3,218.12
+2024-02-14,Portable Battery 20k,East,C00471,86.65,1,108.74
+2024-01-23,Portable Battery 20k,South,C00450,44.79,1,82.85
+2024-03-26,Portable Battery 20k,North,C00267,225.12,3,342.87
+2024-03-03,Bluetooth Speaker,East,C00561,25.51,1,47.9
+2024-01-26,Fitness Tracker,East,C00513,37.46,1,77.04
+2024-03-05,Portable Battery 20k,South,C00158,50.46,1,102.9
+2024-01-19,Portable Battery 20k,East,C00775,159.21,3,280.65
+2024-04-09,Portable Battery 20k,East,C00533,144.5,2,264.22
+2024-02-19,Bluetooth Speaker,East,C00749,172.64,2,225.28
+2024-03-31,Bluetooth Speaker,South,C00616,13.25,1,15.47
+2024-02-22,Desk Lamp,North,C00578,189.45,3,373.53
+2024-02-11,USB-C Hub,East,C00474,44.16,1,76.91
+2024-01-04,Fitness Tracker,South,C00463,55.6,2,102.62
+2024-03-04,Smart Bulb Kit,West,C00624,86.98,2,173.38
+2024-03-27,USB-C Hub,East,C00303,70.62,1,85.2
+2024-02-07,Portable Battery 20k,South,C00655,126.06,2,149.99
+2024-02-02,Keyboard Mini,East,C00479,54.3,2,97.85
+2024-04-03,USB-C Hub,West,C00648,41.19,1,59.54
+2024-01-15,USB-C Hub,North,C00010,35.91,1,56.19
+2024-04-29,Keyboard Mini,West,C00215,53.01,1,80.21
+2024-01-26,Portable Battery 20k,South,C00697,55.34,1,91.1
+2024-04-12,Noise-Canceling Headphones,North,C00794,195.18,3,264.49
+2024-01-13,Bluetooth Speaker,West,C00341,126.3,2,215.77
+2024-04-06,Noise-Canceling Headphones,North,C00753,40.23,3,65.05
+2024-01-23,Desk Lamp,North,C00329,37.14,1,43.87
+2024-01-14,Desk Lamp,East,C00617,124.52,4,250.63
+2024-03-16,Smart Bulb Kit,South,C00352,12.58,1,26.26
+2024-04-17,Fitness Tracker,North,C00511,74.08,1,133.83
+2024-03-22,Noise-Canceling Headphones,West,C00317,32.54,2,56.49
+2024-04-18,Fitness Tracker,North,C00140,59.52,2,90.69
+2024-03-29,Bluetooth Speaker,North,C00518,47.41,1,74.5
+2024-02-19,Desk Lamp,East,C00730,43.66,2,53.17
+2024-04-28,USB-C Hub,North,C00662,81.82,1,127.75
+2024-03-29,Portable Battery 20k,East,C00457,26.39,1,31.76
+2024-03-04,Portable Battery 20k,West,C00739,153.24,2,248.06
+2024-01-08,Desk Lamp,South,C00193,87.92,1,171.77
+2024-04-28,Portable Battery 20k,East,C00064,146.44,2,247.12
+2024-01-22,Desk Lamp,East,C00225,33.55,1,48.4
+2024-02-08,Smart Bulb Kit,West,C00003,22.73,1,33.49
+2024-02-13,Portable Battery 20k,North,C00267,82.96,1,129.96
+2024-01-14,Noise-Canceling Headphones,West,C00275,142,2,235.2
+2024-03-14,Smart Bulb Kit,West,C00106,189.88,4,309.12
+2024-01-28,Noise-Canceling Headphones,North,C00688,13.9,1,20.42
+2024-01-14,Bluetooth Speaker,East,C00267,15.82,1,32.49
+2024-03-14,Portable Battery 20k,East,C00135,63.3,1,128.72
+2024-01-06,Desk Lamp,East,C00419,65.5,2,114.36
+2024-02-29,Noise-Canceling Headphones,East,C00415,174.5,2,260.52
+2024-03-03,Bluetooth Speaker,North,C00700,346.2,5,713.92
+2024-03-07,Smart Bulb Kit,North,C00001,49.26,2,73.69
+2024-03-11,Bluetooth Speaker,North,C00102,16.81,1,21.33
+2024-01-01,USB-C Hub,West,C00460,338.92,4,547.74
+2024-03-27,Desk Lamp,North,C00308,55.35,1,74.03
+2024-02-29,Portable Battery 20k,South,C00050,12.07,1,21.57
+2024-04-02,USB-C Hub,North,C00109,58.97,1,108.17
+2024-01-16,Noise-Canceling Headphones,East,C00786,83.33,1,174.82
+2024-01-07,Desk Lamp,North,C00527,73.28,1,90
+2024-01-04,Keyboard Mini,West,C00706,49.02,2,97.54
+2024-01-26,Noise-Canceling Headphones,South,C00771,41.1,3,78.84
+2024-04-09,Bluetooth Speaker,South,C00319,63.28,1,93.12
+2024-02-12,Bluetooth Speaker,West,C00563,67.03,1,129.98
+2024-04-23,Noise-Canceling Headphones,East,C00650,160.64,2,224.98
+2024-03-24,Bluetooth Speaker,East,C00290,169.83,3,296.67
+2024-03-29,Bluetooth Speaker,North,C00080,69.29,1,111.13
+2024-01-26,Noise-Canceling Headphones,West,C00709,27.4,1,47.92
+2024-04-28,Noise-Canceling Headphones,East,C00723,97.75,5,145.05
+2024-04-14,USB-C Hub,East,C00758,167.12,2,338.89
+2024-03-22,Desk Lamp,South,C00742,138.52,4,219.01
+2024-04-23,Portable Battery 20k,East,C00382,55.48,4,73.68
+2024-01-13,Keyboard Mini,North,C00241,58.8,2,99.8
+2024-04-01,USB-C Hub,East,C00621,37.87,1,74.08
+2024-01-02,Bluetooth Speaker,South,C00259,41.81,1,67.39
+2024-02-01,Bluetooth Speaker,South,C00272,230.1,3,331.8
+2024-03-07,Smart Bulb Kit,West,C00285,150,3,276.19
+2024-02-10,Desk Lamp,South,C00207,146.84,2,258.86
+2024-02-24,Smart Bulb Kit,South,C00011,221.58,3,328.84
+2024-04-13,Smart Bulb Kit,East,C00695,318.76,4,481.19
+2024-01-17,Portable Battery 20k,South,C00321,37.03,1,71.41
+2024-03-07,Bluetooth Speaker,North,C00283,80.61,1,100.57
+2024-03-07,Fitness Tracker,North,C00251,72.3,3,93.92
+2024-03-13,Noise-Canceling Headphones,North,C00353,50.61,3,74.09
+2024-04-14,Portable Battery 20k,North,C00300,119.22,3,158.85
+2024-01-08,Bluetooth Speaker,North,C00314,82.42,1,125.57
+2024-03-02,Bluetooth Speaker,South,C00710,58.45,1,106.48
+2024-01-26,Noise-Canceling Headphones,South,C00319,24.44,1,30.7
+2024-04-02,Noise-Canceling Headphones,South,C00563,396.45,5,509.06
+2024-03-28,Portable Battery 20k,North,C00205,50.05,1,68.46
+2024-01-09,Portable Battery 20k,East,C00151,113.25,5,143.64
+2024-04-04,Noise-Canceling Headphones,West,C00340,40.43,1,80.53
+2024-03-23,Smart Bulb Kit,North,C00280,75.05,1,107.39
+2024-03-08,Portable Battery 20k,North,C00581,30.88,2,35.64
+2024-04-11,Bluetooth Speaker,West,C00473,43.71,3,61.14
+2024-02-25,Fitness Tracker,South,C00022,58.14,1,81.69
+2024-04-08,Desk Lamp,North,C00163,15.04,1,26.82
+2024-03-05,USB-C Hub,North,C00250,40.62,2,70.43
+2024-01-10,Fitness Tracker,East,C00462,31.66,2,64.25
+2024-02-25,Portable Battery 20k,West,C00318,51.5,1,102.56
+2024-03-19,Keyboard Mini,East,C00483,36.79,1,62.77
+2024-02-09,Bluetooth Speaker,West,C00324,172.22,2,282.82
+2024-01-02,Bluetooth Speaker,North,C00100,111.42,2,140.47
+2024-03-30,Bluetooth Speaker,West,C00363,139.48,2,249.88
+2024-04-03,Keyboard Mini,East,C00279,48.51,1,83.62
+2024-01-07,Portable Battery 20k,East,C00463,38.21,1,52.16
+2024-02-04,Portable Battery 20k,East,C00571,57.69,1,118.39
+2024-04-07,Bluetooth Speaker,South,C00412,175.58,2,227.1
+2024-04-23,USB-C Hub,East,C00371,31.14,2,37.67
+2024-01-06,Smart Bulb Kit,South,C00557,230.4,3,298.56
+2024-01-19,Portable Battery 20k,South,C00383,58.18,1,94.89
+2024-04-04,Desk Lamp,East,C00126,178.66,2,256.47
+2024-04-03,Fitness Tracker,South,C00278,92.44,4,184.96
+2024-03-05,Noise-Canceling Headphones,East,C00479,41.87,1,65.19
+2024-01-06,Portable Battery 20k,West,C00327,127.44,3,229.47
+2024-03-09,Keyboard Mini,East,C00079,54.79,1,95.47
+2024-04-19,Smart Bulb Kit,North,C00500,75.79,1,146.82
+2024-04-25,Noise-Canceling Headphones,North,C00420,425,5,597.76
+2024-04-18,USB-C Hub,South,C00246,82.39,1,172.73
+2024-01-12,Portable Battery 20k,North,C00671,20.05,1,23.22
+2024-04-17,Desk Lamp,South,C00063,156.56,2,191.62
+2024-02-24,Fitness Tracker,East,C00443,183.96,3,353.94
+2024-04-03,USB-C Hub,East,C00472,68.25,3,137.48
+2024-04-15,Bluetooth Speaker,West,C00416,24.45,1,32.82
+2024-02-13,Keyboard Mini,South,C00420,24.46,2,43.8
+2024-03-07,Bluetooth Speaker,East,C00408,14.67,1,29.39
+2024-03-04,Noise-Canceling Headphones,South,C00501,148.86,3,223.42
+2024-03-20,Desk Lamp,West,C00437,34.07,1,49.88
+2024-01-21,Noise-Canceling Headphones,South,C00376,62.02,2,111.99
+2024-02-27,Keyboard Mini,North,C00211,33.42,2,49.73
+2024-01-12,Noise-Canceling Headphones,East,C00778,109.74,3,213.91
+2024-04-22,Bluetooth Speaker,North,C00255,88.38,2,182.73
+2024-04-12,Noise-Canceling Headphones,North,C00257,55.82,1,72.68
+2024-01-08,Keyboard Mini,North,C00635,30.53,1,51.72
+2024-04-29,Portable Battery 20k,West,C00657,131.6,2,200.46
+2024-01-25,Bluetooth Speaker,West,C00131,120.93,3,207.54
+2024-03-01,Portable Battery 20k,West,C00176,62.18,1,123.85
+2024-02-04,Portable Battery 20k,West,C00275,56.03,1,95.86
+2024-02-06,Smart Bulb Kit,South,C00571,25.01,1,33.01
+2024-02-22,Portable Battery 20k,East,C00222,68.46,1,134.68
+2024-02-14,Portable Battery 20k,South,C00239,69,1,144.88
+2024-03-13,Fitness Tracker,South,C00147,240.57,3,358.81
+2024-02-04,Noise-Canceling Headphones,North,C00558,78.15,1,97.51
+2024-03-21,Bluetooth Speaker,East,C00204,263.88,3,364.78
+2024-01-22,Keyboard Mini,East,C00489,126.82,2,231.67
+2024-04-02,Keyboard Mini,East,C00132,249.15,3,366.29
+2024-03-16,Keyboard Mini,South,C00407,69.29,1,117.76
+2024-03-04,Bluetooth Speaker,East,C00528,171.14,2,354.02
+2024-01-28,Portable Battery 20k,South,C00724,51.31,1,74.21
+2024-03-21,Fitness Tracker,South,C00755,55.98,1,110.22
+2024-04-02,Desk Lamp,North,C00421,71.13,1,118.73
+2024-04-26,Smart Bulb Kit,West,C00200,40.5,1,82.29
+2024-01-17,Portable Battery 20k,South,C00672,49.17,1,102.37
+2024-04-15,Fitness Tracker,South,C00178,28.26,2,49.51
+2024-04-26,Portable Battery 20k,North,C00534,276.44,4,357.28
+2024-01-23,Desk Lamp,North,C00544,167.66,2,292.43
+2024-03-10,Desk Lamp,South,C00629,31.67,1,45.92
+2024-03-06,Noise-Canceling Headphones,North,C00517,46.26,1,80.97
+2024-01-30,Noise-Canceling Headphones,South,C00034,39.45,1,45.76
+2024-03-05,Noise-Canceling Headphones,West,C00140,163,2,313.12
+2024-03-14,Portable Battery 20k,North,C00391,125.2,5,212.91
+2024-03-13,Desk Lamp,East,C00561,32.16,1,63.15
+2024-01-29,Noise-Canceling Headphones,South,C00702,151.92,3,184.52
+2024-04-18,Noise-Canceling Headphones,East,C00023,56.91,3,79.04
+2024-02-08,Fitness Tracker,West,C00049,148.12,2,247.88
+2024-01-29,Desk Lamp,East,C00286,127.9,2,251.68
+2024-02-02,Bluetooth Speaker,South,C00153,44.33,1,67.77
+2024-01-26,Bluetooth Speaker,North,C00246,119.88,2,147.02
+2024-04-08,Fitness Tracker,West,C00132,262.05,3,540.41
+2024-03-14,Desk Lamp,North,C00321,55.01,1,82.51
+2024-04-27,Fitness Tracker,North,C00135,21.87,1,39.4
+2024-03-17,Bluetooth Speaker,North,C00067,88.02,2,166.06
+2024-01-28,Portable Battery 20k,West,C00482,16.24,1,20.15
+2024-01-28,Bluetooth Speaker,West,C00433,48.01,1,80.25
+2024-01-31,Bluetooth Speaker,East,C00527,31.79,1,40.91
+2024-02-22,Bluetooth Speaker,East,C00057,108.75,3,150.55
+2024-02-04,USB-C Hub,South,C00672,148.78,2,255.49
+2024-03-19,Keyboard Mini,South,C00727,138.32,4,277.05
+2024-03-22,Portable Battery 20k,East,C00194,70.47,1,114.15
+2024-02-02,Smart Bulb Kit,South,C00353,43.19,1,81.52
+2024-03-09,Desk Lamp,East,C00712,68.18,2,112.15
+2024-02-18,Portable Battery 20k,South,C00389,381.4,5,678.64
+2024-03-17,Portable Battery 20k,South,C00489,70.88,1,110
+2024-02-17,Smart Bulb Kit,West,C00491,28.11,1,57.33
+2024-01-04,Keyboard Mini,East,C00148,72.56,2,112.67
+2024-04-06,Keyboard Mini,East,C00074,76.4,2,111.84
+2024-02-09,Portable Battery 20k,North,C00225,70.12,1,146.25
+2024-03-23,Smart Bulb Kit,West,C00716,33.86,2,64.44
+2024-03-14,Portable Battery 20k,East,C00442,30.7,2,44.3
+2024-03-24,Portable Battery 20k,South,C00329,209.73,3,369.42
+2024-04-18,Desk Lamp,North,C00108,63.81,1,81.2
+2024-02-06,Bluetooth Speaker,East,C00106,229.38,3,301.74
+2024-01-05,Noise-Canceling Headphones,West,C00125,76.36,1,130.25
+2024-01-23,Smart Bulb Kit,East,C00465,18.46,1,36.37
+2024-01-21,Portable Battery 20k,North,C00084,77.8,1,134.78
+2024-04-11,Fitness Tracker,South,C00179,27.22,1,56.91
+2024-02-26,Bluetooth Speaker,East,C00712,60.33,1,91.27
+2024-04-28,Bluetooth Speaker,South,C00398,36.57,3,49.06
+2024-02-29,USB-C Hub,South,C00539,138.12,2,193.84
+2024-01-22,Bluetooth Speaker,West,C00541,212.88,3,256.92
+2024-02-27,Portable Battery 20k,East,C00087,41.89,1,48.9
+2024-01-16,Portable Battery 20k,West,C00636,72.96,2,127.3
+2024-01-02,Portable Battery 20k,West,C00302,209.49,3,314.62
+2024-02-29,Bluetooth Speaker,South,C00773,253.08,4,530.28
+2024-03-30,Portable Battery 20k,East,C00308,259.92,3,439.23
+2024-02-06,USB-C Hub,South,C00404,132.58,2,219.73
+2024-02-11,Fitness Tracker,East,C00418,42.16,1,85.59
+2024-01-06,Noise-Canceling Headphones,South,C00116,74.79,1,95.51
+2024-03-03,Bluetooth Speaker,West,C00697,275.28,4,565.57
+2024-02-18,Portable Battery 20k,South,C00100,72.74,2,147.21
+2024-04-24,USB-C Hub,West,C00747,92,2,190.8
+2024-01-15,Fitness Tracker,East,C00530,42.39,3,73.75

@@ -1,0 +1,29 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rproj.user
+
+# renv
+renv/library/
+renv/cache/
+renv/staging/
+
+# Runtime data
+logs/
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/uploads/
+data/reports/
+*.sqlite3
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
