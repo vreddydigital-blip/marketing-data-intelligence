@@ -67,3 +67,69 @@ permanent.
   Ephemeral state (in-memory dataset) is lost; saved sessions in SQLite
   survive when the data directory is on persistent storage.
 - Logs append to `data/logs/app.log`; rotate or ship them with the platform.
+
+## Option B quick start (self-hosted)
+
+On any machine or VM with Docker:
+
+```bash
+git clone https://github.com/vreddydigital-blip/marketing-data-intelligence.git
+cd marketing-data-intelligence
+./start_docker.sh        # builds the image, starts the container, waits for HTTP 200
+```
+
+`docker-compose.yml` mounts a named volume `mdi-data` at `/data` so the SQLite
+database, logs, and generated reports survive container restarts and rebuilds.
+The container listens on port 3838 (change the host-side mapping in
+`docker-compose.yml` if that port is taken).
+
+### Putting ShinyProxy in front (authentication, multi-user)
+
+For anything user-facing, run the image behind ShinyProxy instead of exposing
+the app directly. Minimal `/etc/shinyproxy/application.yml`:
+
+```yaml
+proxy:
+  title: Marketing Data Intelligence
+  port: 8080
+  authentication: simple        # or ldap / openid (OAuth2) in production
+  users:
+    - name: analyst
+      password: change-me       # source from a secret manager, not git
+  docker:
+    internal-networking: true
+  specs:
+    - id: mdi
+      display-name: Marketing Data Intelligence
+      container-image: marketing-data-intelligence:latest
+      container-volumes: [ "/var/lib/shinyproxy/mdi:/data" ]
+      port: 3838
+```
+
+Build the image on the VM (`docker build -t marketing-data-intelligence .`),
+run ShinyProxy itself as a container, and create the host directory for the
+volume. Each user session gets an isolated container; the `/data` bind mount
+persists SQLite sessions across restarts.
+
+### Resource sizing
+
+- Demo/portfolio use: 2 vCPU, 2 GB RAM is comfortable.
+- Regular analyst use with ranger models on ~100k-row data: 4 vCPU, 4-8 GB RAM.
+- The MDI_MAX_UPLOAD_MB limit and model complexity drive peak memory; monitor
+  with `docker stats`.
+
+### TLS / reverse proxy
+
+Terminate TLS with nginx, Caddy, or Traefik in front of port 3838
+(direct RShiny) or ShinyProxy's port 8080. For websocket-based Shiny traffic a
+reverse proxy must support the Upgrade header; nginx example:
+
+```nginx
+location / {
+  proxy_pass http://127.0.0.1:3838;
+  proxy_http_version 1.1;
+  proxy_set_header Upgrade $http_upgrade;
+  proxy_set_header Connection "upgrade";
+  proxy_set_header Host $host;
+}
+```

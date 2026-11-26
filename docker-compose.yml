@@ -1,0 +1,17 @@
+services:
+  mdi:
+    build: .
+    image: marketing-data-intelligence:latest
+    container_name: marketing-data-intelligence
+    ports:
+      - "3838:3838"
+    volumes:
+      - mdi-data:/data
+    environment:
+      MDI_DATA_DIR: /data
+      MDI_LOG_LEVEL: INFO
+      MDI_MAX_UPLOAD_MB: "50"
+    restart: unless-stopped
+
+volumes:
+  mdi-data:
