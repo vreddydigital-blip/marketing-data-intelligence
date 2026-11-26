@@ -19,6 +19,12 @@ data/uploads/
 data/reports/
 *.sqlite3
 
+# rsconnect local deployment records (never publish these)
+rsconnect/
+
+# rsconnect local deployment records (never publish these)
+rsconnect/
+
 # Editor
 .vscode/
 .idea/

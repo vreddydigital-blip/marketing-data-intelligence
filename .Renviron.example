@@ -7,3 +7,9 @@ MDI_DATA_DIR=data
 
 # Application log level: DEBUG, INFO, WARN, ERROR (default INFO)
 MDI_LOG_LEVEL=INFO
+
+# shinyapps.io publishing account (used by deploy.R). Get values from
+# https://www.shinyapps.io/admin/#/Tokens after creating your free account.
+# SHINYAPPS_NAME=my-account-name
+# SHINYAPPS_TOKEN=xxxxx
+# SHINYAPPS_SECRET=xxxxx
