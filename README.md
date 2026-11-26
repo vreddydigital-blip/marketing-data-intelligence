@@ -49,6 +49,19 @@ Rscript deploy.R
 See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for free-tier limits and a
 Docker/ShinyProxy path.
 
+## Waking the hosted app (shinyapps.io)
+
+Free-tier apps sleep after ~15 minutes of inactivity. To warm the app on
+demand before you use it:
+
+```bat
+Rscript tools/wake_app.R
+```
+
+The script sends one request (which starts the instance), polls until the
+application page is served, and reports how long the wake-up took. Do not run
+it in a loop as a keep-alive pinger - see docs/DEPLOYMENT.md for why.
+
 ## Tests
 
 ```bat

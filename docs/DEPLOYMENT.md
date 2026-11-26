@@ -35,6 +35,29 @@ permanent.
    - The 2-core/1-GB free instances are suitable for demo datasets, not bulk ETL.
    - Startup repos the renv.lock file: include it so deployment restores tested versions.
 
+### Waking a sleeping app
+
+Free-tier apps go to sleep after roughly 15 minutes of inactivity and take
+15-60 seconds to start again. Run the wake helper before you want to use the
+app; it sends one request (which starts the instance) and polls until the real
+application page is being served:
+
+```bat
+Rscript tools/wake_app.R
+REM or for another app/account:
+Rscript tools/wake_app.R https://<account>.shinyapps.io/<app-name>/ --timeout=180
+```
+
+Exit code 0 means the app is ready; 1 means it was not ready within the
+timeout. Override the URL with the `MDI_APP_URL` environment variable instead
+of passing it on the command line if preferred.
+
+Do not run the script in an endless loop to keep the app awake: wake-ups count
+toward the 25 active hours/month on the free plan, and providers treat
+automated keep-alive traffic as artificial usage and may suspend accounts for
+it. If you need the app always-on, use the Docker/ShinyProxy self-hosting
+option below, which has no sleep behaviour.
+
 ## Option B: ShinyProxy in Docker (self-hosted, free software)
 
 1. Build and run the shipped image:
